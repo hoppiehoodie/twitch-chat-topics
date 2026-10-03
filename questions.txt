@@ -1,200 +1,1000 @@
-What's your favorite Pokémon?
-What's your favorite Pokémon generation?
-What Pokémon would you want as your real-life pet?
-Which Pokémon would make the best roommate?
-Which Pokémon would make the worst roommate?
-What's your favorite Pokémon type?
-What's your favorite Pokémon move?
-What's your favorite Pokémon game?
-What's your favorite Pokémon region?
-Which Pokémon would you want to ride?
-Which Pokémon would you trust to protect you?
-Which Pokémon would you absolutely NOT trust with your house keys?
-What's your favorite starter Pokémon?
-Which starter Pokémon would you pick if you had to choose right now?
-What's your favorite Eeveelution?
-Which Pokémon deserves more love?
-Which Pokémon do you think is overrated?
-Which Pokémon do you think is underrated?
-What's your favorite shiny Pokémon?
-What's the coolest shiny you've ever encountered?
-What's the funniest Pokémon?
-Which Pokémon would be the best comedian?
-Which Pokémon would you take on a road trip?
-Which Pokémon would you want to cook dinner for you?
-Which Pokémon would you want as your personal bodyguard?
-Which Pokémon would win in a dance battle?
-What's your favorite Pokémon villain/team?
-Which Pokémon character would you want to hang out with?
-What's the weirdest Pokémon design you actually love?
-What's a Pokémon you used to hate but now love?
-What's your favorite Pokémon soundtrack?
-What's the best Pokémon game soundtrack?
-Which Pokémon would you want to see as a real animal?
-Which Pokémon would absolutely destroy your house?
-If you could have one Pokémon ability in real life, which one?
-If you could bring one Pokémon item into real life, what would it be?
-What Pokémon would you want as your best friend?
-What Pokémon would you want to see in a horror game?
-If you could create a new Pokémon type, what would it be?
-If you could make one Pokémon real, which one?
-What's your favorite anime?
-What's the first anime you remember watching?
-What's an anime you could rewatch forever?
-What's your favorite anime opening?
-What's your favorite anime ending?
-What's your favorite anime character?
-What's your favorite anime villain?
-What's your favorite anime protagonist?
-Which anime character would you want as your best friend?
-Which anime character would you absolutely avoid?
-Which anime character would make the best roommate?
-Which anime character would make the worst roommate?
-What's an anime you think everyone should watch once?
-What's an anime you dropped but might try again?
-What's an anime that made you cry?
-What's an anime that made you laugh the hardest?
-What's the weirdest anime you've watched?
-What's your favorite anime genre?
-What's your favorite anime fight?
-What's your favorite anime power system?
-Which anime world would you want to live in?
-Which anime world would you NEVER want to live in?
-Which anime character would you want as your teacher?
-Which anime character would you want as your boss?
-Which anime character would you trust with your life?
-Which anime character would you never trust with your life?
-What's an anime character you relate to?
-What's an anime character you wish got more screen time?
-What's an anime character everyone loves that you don't understand the hype for?
-What's an anime character you think deserves more love?
-What's your favorite anime ship?
-What's an anime ship you absolutely adore?
-What's an anime ship you don't understand?
-Which anime character has the best design?
-Which anime character has the best voice?
-What's your favorite anime transformation?
-What's your favorite anime power?
-What's your favorite anime quote?
-Which anime character would survive a zombie apocalypse?
-If you could erase one anime from your memory and watch it again, which one?
-Who is your biggest fictional crush?
-Who is your current fictional blorbo?
-What's your favorite self-ship?
-Who is your main fictional partner?
-What fictional character would you marry?
-What fictional character would you take on a date?
-What fictional character would you want to cuddle with?
-What fictional character would you want to wake up next to?
-What fictional character would you trust with your deepest secret?
-What's your favorite thing about your F/O?
-What song reminds you of your F/O?
-What's your favorite ship song?
-What's your favorite self-ship trope?
-Do you prefer enemies-to-lovers or friends-to-lovers?
-Do you prefer slow burn or instant attraction?
-What fictional character would absolutely spoil you?
-What fictional character would you spoil?
-What fictional character would make you laugh constantly?
-What fictional character would make you feel safest?
-What fictional character would be your chaotic partner-in-crime?
-What fictional character would take you on the best vacation?
-What fictional character would cook for you?
-What fictional character would steal your fries?
-What fictional character would fall asleep on you?
-What fictional character would be terrible at texting?
-What fictional character would send you memes at 3 AM?
-What fictional character would give the best hugs?
-What fictional character would be the most jealous?
-What fictional character would get embarrassed by compliments?
-What fictional character would you want to slow dance with?
-What's your favorite romantic trope?
-What's your favorite self-ship aesthetic?
-What's your favorite color combination for your ship?
-What fictional date would be perfect for you?
-What fictional character would you trust to plan your date?
-What's a song that perfectly describes your ship?
-What's your favorite piece of ship art you've seen?
-What fictional character would you want to go stargazing with?
-If your F/O surprised you with a date, where would they take you?
-If you could spend one entire day with your F/O, what would you do?
-What's your favorite food?
-What's your favorite snack?
-What's your favorite fast food?
-What's your favorite pizza topping?
-What's the best pizza combination?
-Pineapple on pizza: yes or no?
-What's your favorite ice cream flavor?
-What's your favorite candy?
-What's your favorite soda?
-What's your favorite breakfast food?
-What's your favorite dessert?
-What's your favorite comfort food?
-What's the best food you've ever eaten?
-What's a food you absolutely hate?
-What's a food everyone loves that you can't stand?
-What's a food you could eat every day?
-What's your favorite type of pasta?
-What's your favorite soup?
-What's your favorite chip flavor?
-What's your favorite cookie?
-What's your favorite cake flavor?
-What's your favorite holiday food?
-What's your favorite restaurant meal?
-What's your go-to late-night snack?
-What's your favorite breakfast cereal?
-What's the weirdest food combination you enjoy?
-What's the weirdest food you've ever tried?
-What's your favorite spicy food?
-What's your spice tolerance?
-What's your favorite fruit?
-What's your favorite vegetable?
-What's your favorite sandwich?
-What's your favorite burger topping?
-What's your favorite condiment?
-Ketchup on eggs: acceptable or criminal?
-What's the best dipping sauce?
-What's your favorite drink?
-What's your favorite coffee order?
-What's your favorite food to order when you're too tired to cook?
-If you could have an unlimited supply of one food forever, what would it be?
-If animals could talk, which one would be the rudest?
-If you had to fight one goose, how confident are you?
-What animal would make the worst roommate?
-If your pet could roast you, what would they say?
-What would your villain name be?
-What would your superhero name be?
-If you became famous tomorrow, what would it be for?
-What's the dumbest way you've ever injured yourself?
-What's the weirdest thing you've ever Googled?
-What's the strangest dream you remember?
-If your life had a theme song, what would it be?
-What would your autobiography be called?
-If you could have one useless superpower, what would it be?
-What completely useless skill are you weirdly good at?
-If you had to replace your hands with something, what would you choose?
-If you could turn any object into a weapon, what would you pick?
-What food would you use as a weapon in a food fight?
-If your fridge could talk, what would it complain about?
-If you had to wear one color for the rest of your life, what color?
-If you could only use one emoji forever, which one?
-What's your most irrational fear?
-What's a completely harmless thing that annoys you?
-What's the weirdest nickname you've ever had?
-If you could rename yourself anything, what would you choose?
-If you had to live inside one video game, which one?
-If you could swap lives with any fictional character for one day, who?
-If you had to survive a week with only one snack, what snack?
-If you could summon one fictional character right now, who?
-If your computer could judge you, what would it expose?
-What would your warning label say?
-If you were a Pokémon, what would your type be?
-If you were an anime character, what would your special ability be?
-What fictional universe would you accidentally get yourself killed in?
-If you could make one ridiculous law, what would it be?
-If you could give the moon a name, what would you call it?
-What conspiracy theory would you invent about yourself?
-If your life were a sitcom, what would the running joke be?
-What would your evil supervillain plan actually be?
-If you could make one completely useless holiday, what would we celebrate?
-What's the most chaotic thing you would do if you knew there were absolutely no consequences?
+1. What is your favorite Pokémon?
+2. Would you rather live in a haunted house or a haunted forest?
+3. What's your favorite breakfast food?
+4. What game could you replay forever?
+5. What's a hobby you've always wanted to try?
+6. Who is your favorite anime villain?
+7. What's your biggest current goal?
+8. Do you believe in ghosts?
+9. What is your favorite pizza topping?
+10. If you could have any superpower, what would it be?
+11. What's the weirdest thing you've ever eaten?
+12. What was the first video game you remember playing?
+13. What's your favorite season?
+14. Which Pokémon would you want as a pet?
+15. What's your favorite horror movie?
+16. Do you prefer cats or dogs?
+17. What's your favorite anime opening?
+18. What is something you're surprisingly good at?
+19. If you could travel anywhere, where would you go?
+20. What's your favorite candy?
+21. What fictional character would you want as a roommate?
+22. What's the strangest dream you've ever had?
+23. What's your favorite video game soundtrack?
+24. Would you survive a zombie apocalypse?
+25. What's your favorite color?
+26. What food do you absolutely refuse to eat?
+27. What's your favorite anime?
+28. What Pokémon would be your starter?
+29. What's your biggest pet peeve?
+30. If you could meet any fictional character, who would it be?
+31. What's a game you never finished?
+32. What's your favorite dessert?
+33. Do you prefer mornings or nights?
+34. What's your favorite horror monster?
+35. What skill would you instantly master if you could?
+36. What's your favorite Pokémon type?
+37. What is your comfort movie?
+38. Do you collect anything?
+39. What's the funniest thing that's ever happened to you?
+40. What anime character reminds you most of yourself?
+41. What's your favorite fast-food restaurant?
+42. If you could live in any fictional universe, which would you choose?
+43. What's your favorite hobby?
+44. What's the scariest thing you've ever experienced?
+45. What game made you cry?
+46. What's your favorite fruit?
+47. Which Pokémon has the best design?
+48. What is something you want to accomplish this year?
+49. Do you believe in aliens?
+50. What's your favorite fictional couple?
+51. What's the worst food combination you've ever tried?
+52. What game do you think is underrated?
+53. What's your favorite anime character?
+54. Would you rather visit the past or the future?
+55. What's your favorite holiday?
+56. What Pokémon would make the best roommate?
+57. What's your favorite horror game?
+58. What is one thing you wish you were better at?
+59. What's your favorite soda?
+60. What's the strangest hobby you'd like to try?
+61. What fictional weapon would you want?
+62. What's your favorite video game villain?
+63. What's your least favorite food?
+64. Would you ever explore an abandoned building?
+65. What's your favorite manga?
+66. What's your dream job?
+67. What's your favorite shiny Pokémon?
+68. What is something that instantly makes you happy?
+69. Would you rather fight one giant Pokémon or 100 tiny Pokémon?
+70. What's your favorite movie?
+71. What food reminds you of childhood?
+72. What's the hardest game you've ever played?
+73. Which anime character would you want to train under?
+74. What's something you're proud of?
+75. Do you like thunderstorms?
+76. What's your favorite legendary Pokémon?
+77. What's the funniest game glitch you've seen?
+78. If you could have dinner with anyone fictional, who would you choose?
+79. What's your favorite ice cream flavor?
+80. Would you use a Ouija board?
+81. What's your favorite video game genre?
+82. What is your biggest dream?
+83. What's your favorite anime fight?
+84. What Pokémon would you never want to encounter in real life?
+85. What's your favorite comfort food?
+86. What's something you want to learn?
+87. What's the creepiest place you've ever visited?
+88. Do you prefer subbed or dubbed anime?
+89. What's your favorite board game?
+90. What fictional character would you trust with your life?
+91. What's your favorite snack?
+92. What game character would you want as a best friend?
+93. What's your favorite horror villain?
+94. What's something you wish existed?
+95. What's your favorite Pokémon game?
+96. What's your favorite TV show?
+97. What is your biggest weakness?
+98. Would you rather be a vampire or a werewolf?
+99. What's your favorite anime genre?
+100. What's the strangest thing you've ever collected?
+101. What's your favorite sandwich?
+102. Which Pokémon would you want to ride?
+103. What game has the best story?
+104. What's something that scares you irrationally?
+105. What's your favorite fictional creature?
+106. Would you rather live in space or underwater?
+107. What's your favorite anime movie?
+108. What food could you eat every day?
+109. What's your favorite game console?
+110. What is something you want more of in life?
+111. Which Pokémon would make the best guard dog?
+112. What's your favorite horror trope?
+113. What's your favorite drink?
+114. Who is your favorite anime protagonist?
+115. What would your dream house look like?
+116. What's the weirdest food combination you actually enjoy?
+117. What's your favorite indie game?
+118. Do you believe in fate?
+119. What's your favorite Pokémon region?
+120. What fictional world would you never want to live in?
+121. What's your favorite dessert to bake?
+122. What's the funniest anime character?
+123. Would you rather be invisible or able to fly?
+124. What's your favorite horror franchise?
+125. What's something you want to create?
+126. What game character would you date?
+127. What's your favorite type of cheese?
+128. What Pokémon would you choose as your partner?
+129. What's your favorite childhood cartoon?
+130. Would you spend a night in a cemetery?
+131. What's your favorite anime ship?
+132. What is one goal you're currently working toward?
+133. What's your favorite fast-food order?
+134. What game character would you never trust?
+135. What's your favorite cryptid?
+136. What is something you wish people understood about you?
+137. What's your favorite Pokémon move?
+138. What's the funniest movie you've seen?
+139. Would you rather have unlimited money or unlimited free time?
+140. What's your favorite pasta dish?
+141. What's your favorite video game boss?
+142. Which anime character would you punch?
+143. What's something that always makes you laugh?
+144. What Pokémon would you want as a plushie?
+145. What's your favorite horror setting?
+146. What's a hobby you used to enjoy?
+147. What's your favorite superhero?
+148. What food smells amazing but tastes terrible?
+149. Would you survive your favorite horror movie?
+150. What's your favorite anime ending?
+151. What game has the best soundtrack?
+152. What's something you've always wanted to try?
+153. Which Pokémon would make the worst pet?
+154. What's your favorite movie villain?
+155. What's your biggest strength?
+156. Would you rather have a dragon or a dinosaur?
+157. What's your favorite soup?
+158. What fictional character would make the worst roommate?
+159. What's the scariest game you've played?
+160. What's your favorite anime power?
+161. What's something you're nostalgic about?
+162. What's your favorite Pokémon generation?
+163. What's your favorite restaurant?
+164. What game deserves a remake?
+165. Would you rather be trapped underground or underwater?
+166. What's your favorite anime friendship?
+167. What's your dream vacation?
+168. What food do you wish you liked?
+169. What's your favorite horror character?
+170. What Pokémon type would you choose if you were a Gym Leader?
+171. What's your favorite childhood game?
+172. What makes someone a good friend?
+173. What's your favorite chocolate?
+174. Would you ever go ghost hunting?
+175. What's your favorite anime transformation?
+176. What's your biggest accomplishment?
+177. Which Pokémon has the saddest Pokédex entry?
+178. What's your favorite fictional villain?
+179. What's your favorite type of weather?
+180. What game do you think is overrated?
+181. What's your favorite cake flavor?
+182. Would you rather see ghosts or hear ghosts?
+183. What's your favorite anime soundtrack?
+184. What's one thing you'd change about yourself?
+185. What Pokémon would you choose for a battle team?
+186. What's your favorite sitcom?
+187. What is something you could talk about for hours?
+188. What's the creepiest sound you can imagine?
+189. What's your favorite video game character?
+190. Would you rather have a haunted doll or a haunted mirror?
+191. What's your favorite fruit?
+192. What's an anime you think everyone should watch?
+193. What is something you want to accomplish before you die?
+194. What's your favorite Pokémon card?
+195. What's your favorite fictional school?
+196. What's the funniest thing your pet has done?
+197. What's your favorite horror game mechanic?
+198. Would you rather live in summer or winter forever?
+199. What's your favorite anime villain design?
+200. What's your favorite comfort food?
+201. What would your apocalypse weapon be?
+202. What's your favorite Pokémon starter?
+203. What's the best movie you've seen recently?
+204. What is something you are currently learning?
+205. What's your favorite gaming memory?
+206. Would you rather fight a ghost or a demon?
+207. What's your favorite anime character design?
+208. What's your favorite breakfast cereal?
+209. What fictional ability would you want?
+210. What's your favorite horror movie ending?
+211. What's your favorite hobby to do alone?
+212. Which Pokémon would you want to see in real life?
+213. What's your favorite game soundtrack song?
+214. What makes you feel safe?
+215. What's your favorite anime arc?
+216. Would you rather have a pet dragon or a pet griffin?
+217. What's your favorite candy bar?
+218. What's your favorite video game NPC?
+219. What is something you want to be remembered for?
+220. What's your favorite horror creature?
+221. What Pokémon would make the best therapist?
+222. What's your favorite fictional family?
+223. What's something that instantly annoys you?
+224. What's your favorite anime quote?
+225. What's your favorite game mechanic?
+226. Would you rather be chased by a monster or a serial killer?
+227. What's your favorite holiday food?
+228. What's your favorite Pokémon ability?
+229. What's your favorite animated movie?
+230. What is something you've learned the hard way?
+231. What's your favorite horror movie cliché?
+232. What's your favorite video game companion?
+233. Would you rather have super strength or super speed?
+234. What's your favorite anime opening song?
+235. What food could you never get tired of?
+236. Which Pokémon would you nickname something ridiculous?
+237. What's your favorite fictional location?
+238. What's your favorite gaming platform?
+239. What's your biggest irrational fear?
+240. Would you rather explore space or the deep ocean?
+241. What's your favorite anime side character?
+242. What's the best meal you've ever had?
+243. What's your favorite horror book?
+244. What is something you're secretly proud of?
+245. Which Pokémon would you choose as your Gym ace?
+246. What's your favorite video game protagonist?
+247. What's your favorite fictional pet?
+248. Would you rather live in a haunted hotel or haunted hospital?
+249. What's your favorite anime meme?
+250. What's your favorite season and why?
+251. What's the worst movie you've ever watched?
+252. What food do you absolutely hate?
+253. What's your favorite Pokémon evolution?
+254. What's your favorite game boss fight?
+255. What is something that motivates you?
+256. What's your favorite horror soundtrack?
+257. Would you rather read minds or see the future?
+258. What's your favorite anime movie villain?
+259. What's your favorite type of pizza?
+260. What fictional character would you want protecting you?
+261. What's your favorite gaming Easter egg?
+262. What's something you would do if you had unlimited money?
+263. Which Pokémon has the funniest name?
+264. What's your favorite horror franchise?
+265. What's your favorite anime romance?
+266. What's your favorite hobby to do with friends?
+267. Would you rather have a time machine or teleportation?
+268. What's your favorite fictional robot?
+269. What's your favorite snack at the movies?
+270. What game do you wish you could forget and replay?
+271. What's your favorite anime protagonist outfit?
+272. What Pokémon would be your signature Pokémon?
+273. What's your favorite scary story?
+274. What's something you want to improve at?
+275. What's your favorite gaming accessory?
+276. Would you rather be famous or anonymous?
+277. What's your favorite fictional weapon?
+278. What's your favorite anime tournament?
+279. What's your favorite dessert?
+280. What is something you've never tried but want to?
+281. Which Pokémon would you never battle?
+282. What's your favorite horror movie monster?
+283. What's your favorite video game franchise?
+284. What's something that makes you feel nostalgic?
+285. Would you rather be able to breathe underwater or in space?
+286. What's your favorite anime friendship duo?
+287. What's your favorite fast food?
+288. What's the strangest thing you've ever seen?
+289. What's your favorite Pokémon regional variant?
+290. What's your favorite game world?
+291. What fictional character would you want to be friends with?
+292. What's your favorite horror game protagonist?
+293. What's your favorite color combination?
+294. What is something you wish you had more time for?
+295. What's your favorite anime genre?
+296. Would you rather fight 100 tiny monsters or one giant monster?
+297. What's your favorite Pokémon mythical?
+298. What's your favorite movie soundtrack?
+299. What's a skill you'd love to learn?
+300. What's your favorite horror villain?
+301. What's your favorite gaming achievement?
+302. What food reminds you of someone you love?
+303. What's your favorite anime fight scene?
+304. Would you rather live in a castle or a spaceship?
+305. Which Pokémon would make the best babysitter?
+306. What's your favorite fictional couple?
+307. What's your favorite game genre?
+308. What's your favorite spooky season activity?
+309. What is something you're afraid to try?
+310. What's your favorite anime character voice?
+311. What's your favorite drink?
+312. Would you rather have a phoenix or a dragon?
+313. What's your favorite Pokémon shiny?
+314. What's the funniest game bug you've encountered?
+315. What's your favorite fictional villain?
+316. What is one thing you're grateful for?
+317. What's your favorite horror trope?
+318. What's your favorite anime adaptation?
+319. What's your favorite burger topping?
+320. Would you rather have unlimited snacks or unlimited soda?
+321. What's your favorite game character outfit?
+322. What's your favorite Pokémon legendary?
+323. What fictional world would you move to?
+324. What's your favorite scary movie?
+325. What hobby makes you lose track of time?
+326. What's your favorite anime meme?
+327. What's the weirdest thing you've ever done?
+328. Would you rather live in a video game or anime?
+329. What's your favorite Pokémon move animation?
+330. What's your favorite fictional creature?
+331. What's your favorite restaurant meal?
+332. What is something you're looking forward to?
+333. What's your favorite horror setting?
+334. What's your favorite video game ending?
+335. Would you rather have a personal robot or personal AI?
+336. What's your favorite anime character relationship?
+337. What food would you invent if you could?
+338. What's your favorite Pokémon region?
+339. What's something you would never do?
+340. What's your favorite horror game?
+341. What's your favorite gaming console?
+342. What's your favorite anime character with glasses?
+343. Would you rather have a house in the mountains or by the ocean?
+344. What's your favorite Pokémon item?
+345. What's the best advice you've ever received?
+346. What's your favorite movie genre?
+347. What's your favorite horror movie villain?
+348. What is your dream hobby room?
+349. What's your favorite anime power system?
+350. What's your favorite snack food?
+351. Would you rather be able to fly or teleport?
+352. What's your favorite Pokémon professor?
+353. What's the weirdest game you've played?
+354. What's your favorite fictional hero?
+355. What makes you instantly trust someone?
+356. What's your favorite horror sound effect?
+357. What's your favorite anime school?
+358. What's your favorite comfort show?
+359. What game would you recommend to everyone?
+360. Which Pokémon would you want to sleep beside?
+361. What's your favorite dessert?
+362. Would you rather explore a haunted mansion or abandoned amusement park?
+363. What's your favorite anime character birthday?
+364. What's something you've always wanted to buy?
+365. What's your favorite Pokémon rival?
+366. What's your favorite fictional vehicle?
+367. What's your favorite gaming achievement?
+368. What is your dream vacation destination?
+369. What's your favorite horror book?
+370. What's your favorite anime ship?
+371. Would you rather know your future or change your past?
+372. What's your favorite food to cook?
+373. What's your favorite Pokémon battle?
+374. What's the funniest anime you've watched?
+375. What's your favorite fictional pet?
+376. What is something you wish people would stop doing?
+377. What's your favorite video game weapon?
+378. What's your favorite horror movie soundtrack?
+379. Would you rather be stuck in a time loop or alternate universe?
+380. What's your favorite anime transformation?
+381. What's your favorite candy?
+382. Which Pokémon would you use as transportation?
+383. What's your favorite fictional city?
+384. What's your favorite game side quest?
+385. What's something you wish you could change about the world?
+386. What's your favorite horror movie character?
+387. What's your favorite anime ending?
+388. Would you rather have unlimited books or unlimited games?
+389. What's your favorite Pokémon Gym Leader?
+390. What's your favorite comfort food?
+391. What's your favorite fictional holiday?
+392. What game character would make the best roommate?
+393. What's the strangest food you've ever eaten?
+394. What's your favorite horror urban legend?
+395. What's your favorite anime character archetype?
+396. What's something you're proud you survived?
+397. Would you rather be a ghost or vampire?
+398. What's your favorite Pokémon nickname you've ever used?
+399. What's your favorite video game soundtrack?
+400. What's your favorite movie quote?
+401. What's your favorite anime villain?
+402. What's one goal you want to accomplish soon?
+403. What's your favorite pizza?
+404. Would you explore a supposedly haunted forest?
+405. What's your favorite game character?
+406. Which Pokémon would be your best friend?
+407. What's your favorite hobby?
+408. What's the funniest thing you've seen online?
+409. What's your favorite anime episode?
+410. Would you rather have super strength or teleportation?
+411. What's your favorite fictional monster?
+412. What's your favorite fast-food restaurant?
+413. What's the hardest Pokémon game you've played?
+414. What's your favorite horror movie?
+415. What is something you want to learn this year?
+416. What's your favorite video game story?
+417. What's your favorite anime character design?
+418. Would you rather live in a city or countryside?
+419. What's your favorite Pokémon type?
+420. What's your favorite dessert?
+421. What's your favorite fictional villain?
+422. What's the weirdest thing you've ever collected?
+423. What's your favorite horror game mechanic?
+424. What's your favorite game console?
+425. What's something you want to accomplish someday?
+426. Which Pokémon would you want to cuddle?
+427. What's your favorite anime opening?
+428. Would you rather have a dragon or unicorn?
+429. What's your favorite food combination?
+430. What's your favorite horror creature?
+431. What's your favorite video game protagonist?
+432. What makes you happiest?
+433. What's your favorite anime movie?
+434. What's your favorite Pokémon starter?
+435. What's your favorite fictional world?
+436. Would you spend a night alone in a haunted house?
+437. What's your favorite hobby to do at night?
+438. What's your favorite game boss?
+439. What's a food opinion you'll defend forever?
+440. What's your favorite anime quote?
+441. Which Pokémon would make the best guard?
+442. What's your favorite scary story?
+443. What's your favorite game mechanic?
+444. What is something you want to change about your life?
+445. What's your favorite fictional character?
+446. Would you rather be rich or famous?
+447. What's your favorite Pokémon generation?
+448. What's your favorite horror trope?
+449. What's your favorite anime genre?
+450. What's your favorite restaurant?
+451. What game made you rage quit?
+452. What's something you wish you could do?
+453. What's your favorite Pokémon ability?
+454. What's your favorite movie villain?
+455. Would you rather see the future or change the past?
+456. What's your favorite hobby-related purchase?
+457. What's your favorite anime soundtrack?
+458. What's the weirdest dream you've had?
+459. What's your favorite horror franchise?
+460. What's your favorite Pokémon card?
+461. What's your favorite game NPC?
+462. What's something you're currently obsessed with?
+463. Would you rather live in space or underwater?
+464. What's your favorite fictional weapon?
+465. What's your favorite breakfast?
+466. What's your favorite anime friendship?
+467. What's your favorite Pokémon mythical?
+468. What's your favorite horror setting?
+469. What is one thing you want to accomplish before next year?
+470. What's your favorite video game character design?
+471. Would you rather have a personal chef or personal maid?
+472. What's your favorite fictional creature?
+473. What's your favorite food from childhood?
+474. What's your favorite anime fight?
+475. Which Pokémon would you want as a roommate?
+476. What's your favorite scary game?
+477. What's your favorite video game genre?
+478. What's something that instantly annoys you?
+479. Would you rather have unlimited money or unlimited knowledge?
+480. What's your favorite anime protagonist?
+481. What's your favorite Pokémon evolution?
+482. What's your favorite fictional house?
+483. What's the best meal you've ever eaten?
+484. What's your favorite horror villain?
+485. What's something you want to get better at?
+486. What's your favorite game Easter egg?
+487. Would you rather have wings or gills?
+488. What's your favorite anime side character?
+489. What's your favorite Pokémon regional form?
+490. What's your favorite movie?
+491. What's your favorite hobby you've ever had?
+492. What fictional character would you want to protect you?
+493. What's your favorite horror movie ending?
+494. What's your favorite video game companion?
+495. What's something you're afraid of?
+496. Would you rather be invisible or read minds?
+497. What's your favorite Pokémon legendary?
+498. What's your favorite anime romance?
+499. What's your favorite comfort movie?
+500. What is something you're proud of?
+501. What's your favorite game soundtrack?
+502. What's your favorite spooky activity?
+503. What's your favorite Pokémon move?
+504. Would you rather live forever or know when you'll die?
+505. What's your favorite fictional robot?
+506. What's your favorite food?
+507. What's your favorite anime character?
+508. What's the scariest thing you've seen?
+509. What's your favorite game?
+510. What's something you want to experience?
+511. Which Pokémon would you choose for your final team member?
+512. What's your favorite horror monster?
+513. What's your favorite dessert?
+514. Would you rather be a wizard or a witch?
+515. What's your favorite anime power?
+516. What's your favorite fictional couple?
+517. What's your favorite gaming memory?
+518. What's a hobby you'd teach someone else?
+519. What's your favorite Pokémon shiny?
+520. What's your favorite horror game?
+521. What's something you want to be remembered for?
+522. What's your favorite anime opening?
+523. Would you rather have a time machine or teleportation?
+524. What's your favorite fictional pet?
+525. What's your favorite restaurant?
+526. What's your favorite video game villain?
+527. What's your favorite horror movie?
+528. What's something you wish existed?
+529. Which Pokémon would you want in real life?
+530. What's your favorite anime villain?
+531. Would you rather be trapped in a haunted hospital or abandoned school?
+532. What's your favorite food to cook?
+533. What's your favorite game world?
+534. What's your favorite Pokémon Gym Leader?
+535. What's your favorite hobby purchase?
+536. What's something you want to accomplish this month?
+537. What's your favorite fictional hero?
+538. What's your favorite anime meme?
+539. What's your favorite scary location?
+540. Would you rather have a pet dragon or pet dinosaur?
+541. What's your favorite candy?
+542. What's your favorite Pokémon region?
+543. What's your favorite video game weapon?
+544. What's something that makes you feel at home?
+545. What's your favorite anime character outfit?
+546. What's your favorite horror character?
+547. Would you rather be able to control fire or water?
+548. What's your favorite breakfast food?
+549. What's your favorite Pokémon partner?
+550. What's your favorite fictional school?
+551. What's the funniest game glitch you've encountered?
+552. What's your favorite anime ending?
+553. What's something you want to create?
+554. What's your favorite horror soundtrack?
+555. Would you rather be famous or completely anonymous?
+556. What's your favorite Pokémon type?
+557. What's your favorite fictional villain?
+558. What's your favorite video game ending?
+559. What's your favorite snack?
+560. What's something you want to learn?
+561. What's your favorite anime character relationship?
+562. Would you rather live in a castle or modern mansion?
+563. What's your favorite horror trope?
+564. What's your favorite Pokémon move?
+565. What's your favorite game franchise?
+566. What's something you're nostalgic about?
+567. What's your favorite anime movie?
+568. What's your favorite fictional vehicle?
+569. Would you rather fight a vampire or werewolf?
+570. What's your favorite food from another culture?
+571. What's your favorite Pokémon rival?
+572. What's your favorite horror villain design?
+573. What's your favorite gaming achievement?
+574. What's something you want more of in life?
+575. What's your favorite anime genre?
+576. Would you rather have unlimited food or unlimited drinks?
+577. What's your favorite fictional monster?
+578. What's your favorite game character?
+579. What's your favorite Pokémon card?
+580. What's something that makes you laugh every time?
+581. What's your favorite horror movie cliché?
+582. What's your favorite dessert?
+583. Would you rather explore space or the ocean?
+584. What's your favorite anime fight?
+585. What's your favorite Pokémon starter?
+586. What's your favorite video game soundtrack?
+587. What's something you're surprisingly good at?
+588. What's your favorite fictional city?
+589. What's your favorite horror setting?
+590. Would you rather have super speed or super strength?
+591. What's your favorite anime character voice?
+592. What's your favorite Pokémon ability?
+593. What's your favorite game NPC?
+594. What's something you wish you'd started sooner?
+595. What's your favorite horror book?
+596. What's your favorite fictional family?
+597. Would you rather know every language or play every instrument?
+598. What's your favorite food combination?
+599. What's your favorite anime character design?
+600. What's your favorite Pokémon game?
+601. What's something you would never try?
+602. What's your favorite horror monster?
+603. What's your favorite game boss?
+604. What's your favorite hobby?
+605. Would you rather have a private island or private spaceship?
+606. What's your favorite anime protagonist?
+607. What's your favorite Pokémon mythical?
+608. What's your favorite movie soundtrack?
+609. What's something that instantly makes you happy?
+610. What's your favorite horror franchise?
+611. What's your favorite video game protagonist?
+612. What's your favorite snack?
+613. Would you rather be able to shapeshift or teleport?
+614. What's your favorite anime ship?
+615. What's your favorite Pokémon evolution?
+616. What's your favorite fictional weapon?
+617. What's something you want to improve?
+618. What's your favorite scary movie?
+619. What's your favorite game mechanic?
+620. Would you rather live in a forest or on the beach?
+621. What's your favorite anime quote?
+622. What's your favorite Pokémon legendary?
+623. What's your favorite food?
+624. What's your favorite horror villain?
+625. What's something you want to accomplish in the next five years?
+626. What's your favorite fictional creature?
+627. What's your favorite video game genre?
+628. Would you rather fight a giant spider or giant snake?
+629. What's your favorite anime side character?
+630. What's your favorite Pokémon regional variant?
+631. What's your favorite dessert?
+632. What's your favorite horror game?
+633. What's something you're grateful for?
+634. What's your favorite game character?
+635. Would you rather have a talking pet or a robot companion?
+636. What's your favorite anime soundtrack?
+637. What's your favorite Pokémon type?
+638. What's your favorite fictional villain?
+639. What's something you want to buy someday?
+640. What's your favorite horror location?
+641. What's your favorite game soundtrack?
+642. Would you rather be able to fly or breathe underwater?
+643. What's your favorite anime transformation?
+644. What's your favorite Pokémon partner?
+645. What's your favorite fast-food meal?
+646. What's something that makes you feel safe?
+647. What's your favorite horror movie ending?
+648. What's your favorite video game NPC?
+649. Would you rather live in a game or movie?
+650. What's your favorite anime opening?
+651. What's your favorite Pokémon Gym?
+652. What's something you wish you could change?
+653. What's your favorite fictional hero?
+654. What's your favorite horror game protagonist?
+655. What's your favorite hobby to do with friends?
+656. Would you rather be able to pause time or rewind time?
+657. What's your favorite anime villain?
+658. What's your favorite Pokémon shiny?
+659. What's your favorite gaming memory?
+660. What's something you're looking forward to?
+661. What's your favorite horror trope?
+662. What's your favorite food?
+663. Would you rather have unlimited money or unlimited health?
+664. What's your favorite fictional pet?
+665. What's your favorite anime character?
+666. What's your favorite Pokémon?
+667. What's your favorite game?
+668. What's your favorite movie?
+669. What's your favorite horror story?
+670. What's something you want to accomplish?
+671. What's your favorite dessert?
+672. Would you rather be a vampire or witch?
+673. What's your favorite Pokémon region?
+674. What's your favorite video game villain?
+675. What's your favorite anime fight?
+676. What's something you're proud of?
+677. What's your favorite fictional world?
+678. What's your favorite horror creature?
+679. Would you rather have a dragon or phoenix?
+680. What's your favorite hobby?
+681. What's your favorite anime character design?
+682. What's your favorite Pokémon move?
+683. What's your favorite gaming console?
+684. What's something you want to learn?
+685. What's your favorite horror movie?
+686. Would you rather know the future or change the past?
+687. What's your favorite fictional character?
+688. What's your favorite food combination?
+689. What's your favorite Pokémon starter?
+690. What's your favorite anime ending?
+691. What's something that annoys you?
+692. What's your favorite game boss?
+693. What's your favorite horror villain?
+694. Would you rather be famous or wealthy?
+695. What's your favorite anime genre?
+696. What's your favorite Pokémon legendary?
+697. What's your favorite fictional weapon?
+698. What's something you're currently obsessed with?
+699. What's your favorite game soundtrack?
+700. What's your favorite scary story?
+701. Would you rather have unlimited free time or unlimited money?
+702. What's your favorite Pokémon card?
+703. What's your favorite anime opening?
+704. What's your favorite horror setting?
+705. What's your favorite restaurant?
+706. What's your favorite video game character?
+707. What's something you want to create?
+708. Would you rather live in the mountains or by the ocean?
+709. What's your favorite Pokémon type?
+710. What's your favorite fictional villain?
+711. What's your favorite anime movie?
+712. What's your favorite dessert?
+713. What's something you wish existed?
+714. What's your favorite horror game?
+715. Would you rather have a time machine or teleportation?
+716. What's your favorite game world?
+717. What's your favorite Pokémon ability?
+718. What's your favorite hobby?
+719. What's your favorite anime character relationship?
+720. What's something you want to change about yourself?
+721. What's your favorite horror soundtrack?
+722. Would you rather be invisible or invincible?
+723. What's your favorite Pokémon evolution?
+724. What's your favorite fictional creature?
+725. What's your favorite game franchise?
+726. What's something that makes you nostalgic?
+727. What's your favorite anime protagonist?
+728. What's your favorite food?
+729. Would you explore an abandoned amusement park?
+730. What's your favorite Pokémon rival?
+731. What's your favorite horror villain?
+732. What's your favorite game mechanic?
+733. What's something you're afraid to try?
+734. What's your favorite fictional pet?
+735. Would you rather live forever or be able to restart your life?
+736. What's your favorite anime meme?
+737. What's your favorite Pokémon shiny?
+738. What's your favorite gaming achievement?
+739. What's your favorite horror movie?
+740. What's something you're really proud of?
+741. What's your favorite snack?
+742. Would you rather be able to control fire or ice?
+743. What's your favorite fictional hero?
+744. What's your favorite anime power?
+745. What's your favorite Pokémon game?
+746. What's your favorite horror monster?
+747. What's your favorite video game character?
+748. What's something you want to accomplish before the year ends?
+749. What's your favorite anime ship?
+750. Would you rather fight one giant monster or 100 tiny monsters?
+751. What's your favorite Pokémon move?
+752. What's your favorite fictional location?
+753. What's your favorite dessert?
+754. What's something you wish you knew how to do?
+755. What's your favorite horror franchise?
+756. What's your favorite gaming platform?
+757. What's your favorite anime soundtrack?
+758. Would you rather live in a haunted mansion or castle?
+759. What's your favorite Pokémon professor?
+760. What's your favorite fictional vehicle?
+761. What's something that makes you laugh?
+762. What's your favorite game boss?
+763. What's your favorite horror character?
+764. Would you rather have a personal chef or personal driver?
+765. What's your favorite anime villain?
+766. What's your favorite food?
+767. What's your favorite Pokémon partner?
+768. What's something you want more of?
+769. What's your favorite video game ending?
+770. What's your favorite horror game?
+771. Would you rather be able to read minds or become invisible?
+772. What's your favorite anime side character?
+773. What's your favorite Pokémon generation?
+774. What's your favorite fictional monster?
+775. What's something you're grateful for?
+776. What's your favorite hobby?
+777. What's your favorite scary movie?
+778. Would you rather live in the past or future?
+779. What's your favorite Pokémon legendary?
+780. What's your favorite game character?
+781. What's your favorite anime quote?
+782. What's something you want to accomplish someday?
+783. What's your favorite fictional villain?
+784. Would you rather have a pet dragon or griffin?
+785. What's your favorite food?
+786. What's your favorite horror trope?
+787. What's your favorite video game soundtrack?
+788. What's something you're currently working toward?
+789. What's your favorite anime fight?
+790. What's your favorite Pokémon shiny?
+791. Would you rather be able to fly or teleport?
+792. What's your favorite fictional character?
+793. What's your favorite dessert?
+794. What's your favorite horror monster?
+795. What's your favorite game?
+796. What's something you wish people understood about you?
+797. What's your favorite anime?
+798. What's your favorite Pokémon?
+799. Would you rather ask the universe one question or know your entire future?
+800. What's something you're proud of?
+801. What's your favorite game franchise?
+802. What's your favorite horror movie?
+803. What's your favorite anime character?
+804. What's your favorite Pokémon?
+805. What's your favorite food?
+806. What's your favorite hobby?
+807. What's your biggest dream?
+808. Would you rather live in a fictional world or create your own?
+809. What's your favorite video game villain?
+810. What's your favorite horror villain?
+811. What's your favorite anime villain?
+812. What's your favorite Pokémon type?
+813. What's your favorite dessert?
+814. What's something you want to learn?
+815. Would you rather have super speed or teleportation?
+816. What's your favorite fictional creature?
+817. What's your favorite game soundtrack?
+818. What's your favorite anime opening?
+819. What's your favorite Pokémon move?
+820. What's your favorite horror game?
+821. What's something you want to accomplish?
+822. What's your favorite restaurant?
+823. Would you rather have unlimited money or unlimited wishes?
+824. What's your favorite anime movie?
+825. What's your favorite Pokémon region?
+826. What's your favorite fictional weapon?
+827. What's your favorite game character?
+828. What's your favorite horror setting?
+829. What's something you want to change?
+830. Would you rather live in space or underwater?
+831. What's your favorite anime ship?
+832. What's your favorite Pokémon legendary?
+833. What's your favorite snack?
+834. What's your favorite video game boss?
+835. What's your favorite horror monster?
+836. What's something you want to create?
+837. Would you rather know every secret in the universe or every secret about yourself?
+838. What's your favorite fictional hero?
+839. What's your favorite anime genre?
+840. What's your favorite Pokémon starter?
+841. What's your favorite hobby?
+842. What's your favorite movie?
+843. What's something you're currently obsessed with?
+844. Would you rather be a vampire or werewolf?
+845. What's your favorite horror franchise?
+846. What's your favorite game mechanic?
+847. What's your favorite anime transformation?
+848. What's your favorite Pokémon shiny?
+849. What's something that makes you feel safe?
+850. What's your favorite fictional pet?
+851. Would you rather have a time machine or teleportation?
+852. What's your favorite food?
+853. What's your favorite game?
+854. What's your favorite anime?
+855. What's your favorite horror story?
+856. What's your favorite Pokémon?
+857. What's something you're proud of?
+858. Would you rather have wings or a tail?
+859. What's your favorite fictional villain?
+860. What's your favorite gaming memory?
+861. What's your favorite anime character design?
+862. What's your favorite Pokémon evolution?
+863. What's your favorite dessert?
+864. What's something you want to experience?
+865. What's your favorite horror villain?
+866. Would you rather explore a haunted house or haunted forest?
+867. What's your favorite video game character?
+868. What's your favorite anime soundtrack?
+869. What's your favorite Pokémon card?
+870. What's something you want to get better at?
+871. Would you rather be able to breathe underwater or survive in space?
+872. What's your favorite fictional world?
+873. What's your favorite horror movie?
+874. What's your favorite game boss?
+875. What's your favorite anime protagonist?
+876. What's your favorite Pokémon ability?
+877. What's your favorite food combination?
+878. What's something you wish you could do?
+879. Would you rather have a robot companion or magical companion?
+880. What's your favorite horror creature?
+881. What's your favorite video game genre?
+882. What's your favorite anime ending?
+883. What's your favorite Pokémon rival?
+884. What's your favorite hobby?
+885. What's something you want more of in your life?
+886. Would you rather be famous or anonymous?
+887. What's your favorite fictional character?
+888. What's your favorite horror game?
+889. What's your favorite game soundtrack?
+890. What's your favorite Pokémon region?
+891. What's your favorite anime fight?
+892. What's something you're looking forward to?
+893. Would you rather have unlimited food or unlimited money?
+894. What's your favorite dessert?
+895. What's your favorite fictional vehicle?
+896. What's your favorite horror trope?
+897. What's your favorite Pokémon mythical?
+898. What's your favorite anime villain?
+899. What's your favorite game character?
+900. What's something you want to accomplish this year?
+901. Would you rather be able to pause or rewind time?
+902. What's your favorite food?
+903. What's your favorite Pokémon?
+904. What's your favorite horror movie?
+905. What's your favorite anime?
+906. What's your favorite game?
+907. What's your favorite hobby?
+908. What's something you want to learn?
+909. Would you rather have a dragon or phoenix?
+910. What's your favorite fictional villain?
+911. What's your favorite Pokémon move?
+912. What's your favorite video game boss?
+913. What's your favorite anime character?
+914. What's your favorite horror monster?
+915. What's something you want to create?
+916. Would you rather know your future or change your past?
+917. What's your favorite dessert?
+918. What's your favorite fictional creature?
+919. What's your favorite Pokémon starter?
+920. What's your favorite game mechanic?
+921. What's your favorite horror setting?
+922. What's your favorite anime opening?
+923. What's something you're proud of?
+924. Would you rather live in a castle or spaceship?
+925. What's your favorite Pokémon shiny?
+926. What's your favorite fictional hero?
+927. What's your favorite food?
+928. What's your favorite horror villain?
+929. What's your favorite video game soundtrack?
+930. What's your favorite anime ship?
+931. What's something you're currently working toward?
+932. Would you rather have super strength or mind reading?
+933. What's your favorite Pokémon legendary?
+934. What's your favorite hobby?
+935. What's your favorite game character?
+936. What's your favorite horror game?
+937. What's your favorite anime movie?
+938. What's something you wish existed?
+939. Would you rather have unlimited knowledge or unlimited creativity?
+940. What's your favorite fictional weapon?
+941. What's your favorite Pokémon region?
+942. What's your favorite dessert?
+943. What's your favorite horror franchise?
+944. What's your favorite anime character design?
+945. What's something that makes you happy?
+946. Would you rather explore space or the ocean?
+947. What's your favorite video game?
+948. What's your favorite Pokémon?
+949. What's your favorite horror character?
+950. What's your favorite anime villain?
+951. What's something you want to accomplish before the year ends?
+952. Would you rather be a vampire or witch?
+953. What's your favorite fictional pet?
+954. What's your favorite food?
+955. What's your favorite gaming memory?
+956. What's your favorite Pokémon ability?
+957. What's your favorite anime fight?
+958. What's your favorite horror movie ending?
+959. What's something you want to improve?
+960. Would you rather have a time machine or teleportation?
+961. What's your favorite game franchise?
+962. What's your favorite fictional location?
+963. What's your favorite Pokémon card?
+964. What's your favorite anime quote?
+965. What's your favorite dessert?
+966. What's your favorite horror monster?
+967. What's something you're grateful for?
+968. Would you rather live forever or restart your life?
+969. What's your favorite video game villain?
+970. What's your favorite Pokémon evolution?
+971. What's your favorite anime protagonist?
+972. What's your favorite hobby?
+973. What's your favorite horror game?
+974. What's something you want to be remembered for?
+975. Would you rather be invisible or invincible?
+976. What's your favorite fictional world?
+977. What's your favorite food?
+978. What's your favorite Pokémon?
+979. What's your favorite game?
+980. What's your favorite anime?
+981. What's your favorite horror movie?
+982. What's your biggest dream?
+983. Would you rather know every language or master every instrument?
+984. What's your favorite fictional character?
+985. What's your favorite Pokémon shiny?
+986. What's your favorite video game soundtrack?
+987. What's your favorite anime opening?
+988. What's your favorite horror villain?
+989. What's something you're currently obsessed with?
+990. Would you rather control time or space?
+991. What's your favorite dessert?
+992. What's your favorite game character?
+993. What's your favorite Pokémon legendary?
+994. What's your favorite anime character?
+995. What's your favorite horror creature?
+996. What's something you want to accomplish someday?
+997. Would you rather have unlimited money or unlimited wishes?
+998. What's your favorite fictional world?
+999. What's one question you wish someone would ask you?
+1000. If you could ask yourself one question and had to answer honestly, what would you ask?
