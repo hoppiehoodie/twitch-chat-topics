@@ -1,679 +1,1079 @@
-What is your favorite Pokémon?
-Would you rather live in a haunted house or a haunted forest?
-What's your favorite breakfast food?
-What game could you replay forever?
-What's a hobby you've always wanted to try?
-Who is your favorite anime villain?
-What's your biggest current goal?
-Do you believe in ghosts?
-What is your favorite pizza topping?
-If you could have any superpower, what would it be?
-What's the weirdest thing you've ever eaten?
-What was the first video game you remember playing?
-What's your favorite season?
-Which Pokémon would you want as a pet?
-What's your favorite horror movie?
-Do you prefer cats or dogs?
-What's your favorite anime opening?
-What is something you're surprisingly good at?
-If you could travel anywhere, where would you go?
-What's your favorite candy?
-What fictional character would you want as a roommate?
-What's the strangest dream you've ever had?
-What's your favorite video game soundtrack?
-Would you survive a zombie apocalypse?
-What's your favorite color?
-What food do you absolutely refuse to eat?
-What's your favorite anime?
-What Pokémon would be your starter?
-What's your biggest pet peeve?
-If you could meet any fictional character, who would it be?
-What's a game you never finished?
-What's your favorite dessert?
-Do you prefer mornings or nights?
-What's your favorite horror monster?
-What skill would you instantly master if you could?
-What's your favorite Pokémon type?
-What is your comfort movie?
-Do you collect anything?
-What's the funniest thing that's ever happened to you?
-What anime character reminds you most of yourself?
-What's your favorite fast-food restaurant?
-If you could live in any fictional universe, which would you choose?
-What's your favorite hobby?
-What's the scariest thing you've ever experienced?
-What game made you cry?
-What's your favorite fruit?
-Which Pokémon has the best design?
-What is something you want to accomplish this year?
-Do you believe in aliens?
-What's your favorite fictional couple?
-What's the worst food combination you've ever tried?
-What game do you think is underrated?
-What's your favorite anime character?
-Would you rather visit the past or the future?
-What's your favorite holiday?
-What Pokémon would make the best roommate?
-What's your favorite horror game?
-What is one thing you wish you were better at?
-What's your favorite soda?
-What's the strangest hobby you'd like to try?
-What fictional weapon would you want?
-What's your favorite video game villain?
-What's your least favorite food?
-Would you ever explore an abandoned building?
-What's your favorite manga?
-What's your dream job?
-What's your favorite shiny Pokémon?
-What is something that instantly makes you happy?
-Would you rather fight one giant Pokémon or 100 tiny Pokémon?
-What's your favorite movie?
-What food reminds you of childhood?
-What's the hardest game you've ever played?
-Which anime character would you want to train under?
-What's something you're proud of?
-Do you like thunderstorms?
-What's your favorite legendary Pokémon?
-What's the funniest game glitch you've seen?
-If you could have dinner with anyone fictional, who would you choose?
-What's your favorite ice cream flavor?
-Would you use a Ouija board?
-What's your favorite video game genre?
-What is your biggest dream?
-What's your favorite anime fight?
-What Pokémon would you never want to encounter in real life?
-What's your favorite comfort food?
-What's something you want to learn?
-What's the creepiest place you've ever visited?
-Do you prefer subbed or dubbed anime?
-What's your favorite board game?
-What fictional character would you trust with your life?
-What's your favorite snack?
-What game character would you want as a best friend?
-What's your favorite horror villain?
-What's something you wish existed?
-What's your favorite Pokémon game?
-What's your favorite TV show?
-What is your biggest weakness?
-Would you rather be a vampire or a werewolf?
-What's your favorite anime genre?
-What's the strangest thing you've ever collected?
-What's your favorite sandwich?
-Which Pokémon would you want to ride?
-What game has the best story?
-What's something that scares you irrationally?
-What's your favorite fictional creature?
-Would you rather live in space or underwater?
-What's your favorite anime movie?
-What food could you eat every day?
-What's your favorite game console?
-What is something you want more of in life?
-Which Pokémon would make the best guard dog?
-What's your favorite horror trope?
-What's your favorite drink?
-Who is your favorite anime protagonist?
-What would your dream house look like?
-What's the weirdest food combination you actually enjoy?
-What's your favorite indie game?
-Do you believe in fate?
-What's your favorite Pokémon region?
-What fictional world would you never want to live in?
-What's your favorite dessert to bake?
-What's the funniest anime character?
-Would you rather be invisible or able to fly?
-What's your favorite horror franchise?
-What's something you want to create?
-What game character would you date?
-What's your favorite type of cheese?
-What Pokémon would you choose as your partner?
-What's your favorite childhood cartoon?
-Would you spend a night in a cemetery?
-What's your favorite anime ship?
-What is one goal you're currently working toward?
-What's your favorite fast-food order?
-What game character would you never trust?
-What's your favorite cryptid?
-What is something you wish people understood about you?
-What's your favorite Pokémon move?
-What's the funniest movie you've seen?
-Would you rather have unlimited money or unlimited free time?
-What's your favorite pasta dish?
-What's your favorite video game boss?
-Which anime character would you punch?
-What's something that always makes you laugh?
-What Pokémon would you want as a plushie?
-What's your favorite horror setting?
-What's a hobby you used to enjoy?
-What's your favorite superhero?
-What food smells amazing but tastes terrible?
-Would you survive your favorite horror movie?
-What's your favorite anime ending?
-What game has the best soundtrack?
-What's something you've always wanted to try?
-Which Pokémon would make the worst pet?
-What's your favorite movie villain?
-What's your biggest strength?
-Would you rather have a dragon or a dinosaur?
-What's your favorite soup?
-What fictional character would make the worst roommate?
-What's the scariest game you've played?
-What's your favorite anime power?
-What's something you're nostalgic about?
-What's your favorite Pokémon generation?
-What's your favorite restaurant?
-What game deserves a remake?
-Would you rather be trapped underground or underwater?
-What's your favorite anime friendship?
-What's your dream vacation?
-What food do you wish you liked?
-What's your favorite horror character?
-What Pokémon type would you choose if you were a Gym Leader?
-What's your favorite childhood game?
-What makes someone a good friend?
-What's your favorite chocolate?
-Would you ever go ghost hunting?
-What's your favorite anime transformation?
-What's your biggest accomplishment?
-Which Pokémon has the saddest Pokédex entry?
-What's your favorite fictional villain?
-What's your favorite type of weather?
-What game do you think is overrated?
-What's your favorite cake flavor?
-Would you rather see ghosts or hear ghosts?
-What's your favorite anime soundtrack?
-What's one thing you'd change about yourself?
-What Pokémon would you choose for a battle team?
-What's your favorite sitcom?
+What food could you eat every day and never get tired of?
+What is your favorite Pokémon of all time?
+What anime could you rewatch forever?
+What game have you spent the most hours playing?
+What is your biggest current goal?
+What hobby would you love to pick up?
+What is the weirdest food combination you actually enjoy?
+What Pokémon would you want as a real-life pet?
+What anime character would you want as your best friend?
+What game soundtrack do you never get tired of?
+What is something you are surprisingly good at?
+What is one food you absolutely refuse to eat?
+What horror movie actually scared you?
+What game made you rage the hardest?
+What is your favorite season of the year?
+What is something you want to accomplish before the year ends?
+What fictional world would you want to live in?
+What is your favorite comfort food?
+What Pokémon type is your favorite?
+What anime opening do you never skip?
+What game would you recommend to everyone?
+What is a hobby you used to have but stopped doing?
+What is the strangest dream you remember having?
+What is one thing that instantly makes your day better?
+What horror game could you never play alone?
+What is your favorite childhood game?
+What food reminds you of home?
+What Pokémon would you absolutely not want to battle?
+What anime villain do you secretly like?
+What game character would you want to hang out with?
+What is something you wish you were better at?
+What is your favorite holiday?
+What is the strangest thing you have ever eaten?
+What game do you wish you could experience again for the first time?
+What Pokémon would you choose as your starter?
+What anime world would you absolutely not survive in?
+What is your favorite type of music?
+What is a small goal you are currently working toward?
+What food do you think is overrated?
+What game has the best multiplayer experience?
+What is your favorite mythical creature?
 What is something you could talk about for hours?
-What's the creepiest sound you can imagine?
-What's your favorite video game character?
-Would you rather have a haunted doll or a haunted mirror?
-What's your favorite fruit?
-What's an anime you think everyone should watch?
-What is something you want to accomplish before you die?
-What's your favorite Pokémon card?
-What's your favorite fictional school?
-What's the funniest thing your pet has done?
-What's your favorite horror game mechanic?
-Would you rather live in summer or winter forever?
-What's your favorite anime villain design?
-What's your favorite comfort food?
-What would your apocalypse weapon be?
-What's your favorite Pokémon starter?
-What's the best movie you've seen recently?
-What is something you are currently learning?
-What's your favorite gaming memory?
-Would you rather fight a ghost or a demon?
-What's your favorite anime character design?
-What's your favorite breakfast cereal?
-What fictional ability would you want?
-What's your favorite horror movie ending?
-What's your favorite hobby to do alone?
-Which Pokémon would you want to see in real life?
-What's your favorite game soundtrack song?
-What makes you feel safe?
-What's your favorite anime arc?
-Would you rather have a pet dragon or a pet griffin?
-What's your favorite candy bar?
-What's your favorite video game NPC?
-What is something you want to be remembered for?
-What's your favorite horror creature?
+What Pokémon would fit your personality best?
+What anime character has your favorite design?
+What is your favorite horror trope?
+What is the funniest game you have ever played?
+What food do you always keep in your house?
+What is something you have always wanted to learn?
+What fictional character would make the worst roommate?
+What is your favorite Pokémon region?
+What anime character would you trust with your life?
+What game has the best character creator?
+What is your favorite snack?
+What is something that always makes you laugh?
+What horror monster would you least want to encounter?
+What game do you think deserves a sequel?
+What is your favorite thing to do on a lazy day?
+What Pokémon would you use for transportation?
+What anime fight is your favorite?
+What is a hobby you wish more people understood?
+What food could you never give up?
+What is your favorite game genre?
+What is something you are proud of accomplishing?
+What fictional character would you invite to dinner?
+What Pokémon would you choose for a team of six?
+What anime would you recommend to someone who has never watched anime?
+What is the creepiest thing you have ever experienced?
+What game character has the best personality?
+What is your favorite breakfast food?
+What is one skill you would instantly learn if you could?
 What Pokémon would make the best therapist?
-What's your favorite fictional family?
-What's something that instantly annoys you?
-What's your favorite anime quote?
-What's your favorite game mechanic?
-Would you rather be chased by a monster or a serial killer?
-What's your favorite holiday food?
-What's your favorite Pokémon ability?
-What's your favorite animated movie?
-What is something you've learned the hard way?
-What's your favorite horror movie cliché?
-What's your favorite video game companion?
-Would you rather have super strength or super speed?
-What's your favorite anime opening song?
-What food could you never get tired of?
-Which Pokémon would you nickname something ridiculous?
-What's your favorite fictional location?
-What's your favorite gaming platform?
-What's your biggest irrational fear?
-Would you rather explore space or the deep ocean?
-What's your favorite anime side character?
-What's the best meal you've ever had?
-What's your favorite horror book?
-What is something you're secretly proud of?
-Which Pokémon would you choose as your Gym ace?
-What's your favorite video game protagonist?
-What's your favorite fictional pet?
-Would you rather live in a haunted hotel or haunted hospital?
-What's your favorite anime meme?
-What's your favorite season and why?
-What's the worst movie you've ever watched?
-What food do you absolutely hate?
-What's your favorite Pokémon evolution?
-What's your favorite game boss fight?
-What is something that motivates you?
-What's your favorite horror soundtrack?
-Would you rather read minds or see the future?
-What's your favorite anime movie villain?
-What's your favorite type of pizza?
-What fictional character would you want protecting you?
-What's your favorite gaming Easter egg?
-What's something you would do if you had unlimited money?
-Which Pokémon has the funniest name?
-What's your favorite horror franchise?
-What's your favorite anime romance?
-What's your favorite hobby to do with friends?
-Would you rather have a time machine or teleportation?
-What's your favorite fictional robot?
-What's your favorite snack at the movies?
-What game do you wish you could forget and replay?
-What's your favorite anime protagonist outfit?
-What Pokémon would be your signature Pokémon?
-What's your favorite scary story?
-What's something you want to improve at?
-What's your favorite gaming accessory?
-Would you rather be famous or anonymous?
-What's your favorite fictional weapon?
-What's your favorite anime tournament?
-What's your favorite dessert?
-What is something you've never tried but want to?
-Which Pokémon would you never battle?
-What's your favorite horror movie monster?
-What's your favorite video game franchise?
-What's something that makes you feel nostalgic?
-Would you rather be able to breathe underwater or in space?
-What's your favorite anime friendship duo?
-What's your favorite fast food?
-What's the strangest thing you've ever seen?
-What's your favorite Pokémon regional variant?
-What's your favorite game world?
-What fictional character would you want to be friends with?
-What's your favorite horror game protagonist?
-What's your favorite color combination?
+What is your favorite anime genre?
+What game mechanic do you wish more games used?
+What food do you think deserves more attention?
+What is your dream vacation?
+What horror movie would you never watch alone?
+What Pokémon ability would you want in real life?
+What is your favorite childhood cartoon?
+What game world would be the most fun to explore?
+What is something you would buy if money did not matter?
+What food smells amazing but tastes terrible?
+What anime character would you want as your teacher?
+What is your favorite board game?
+What Pokémon would be the funniest to have as a roommate?
+What is something you want to try at least once?
+What is your favorite type of weather?
+What game has the best boss fights?
+What horror game has the best atmosphere?
+What is your favorite dessert?
+What anime character deserves their own spin-off?
+What Pokémon would you want to ride?
 What is something you wish you had more time for?
-What's your favorite anime genre?
-Would you rather fight 100 tiny monsters or one giant monster?
-What's your favorite Pokémon mythical?
-What's your favorite movie soundtrack?
-What's a skill you'd love to learn?
-What's your favorite horror villain?
-What's your favorite gaming achievement?
-What food reminds you of someone you love?
-What's your favorite anime fight scene?
-Would you rather live in a castle or a spaceship?
-Which Pokémon would make the best babysitter?
-What's your favorite fictional couple?
-What's your favorite game genre?
-What's your favorite spooky season activity?
-What is something you're afraid to try?
-What's your favorite anime character voice?
-What's your favorite drink?
-Would you rather have a phoenix or a dragon?
-What's your favorite Pokémon shiny?
-What's the funniest game bug you've encountered?
-What's your favorite fictional villain?
-What is one thing you're grateful for?
-What's your favorite horror trope?
-What's your favorite anime adaptation?
-What's your favorite burger topping?
-Would you rather have unlimited snacks or unlimited soda?
-What's your favorite game character outfit?
-What's your favorite Pokémon legendary?
-What's your favorite animated movie?
-What is something you are currently learning?
-What's your favorite horror game?
-What's your favorite video game protagonist?
-Would you rather be able to fly or teleport?
-What's your favorite anime character relationship?
+What is your favorite thing about gaming?
+What food instantly puts you in a good mood?
+What fictional villain would you actually get along with?
+What game has the most memorable soundtrack?
+What is your favorite Pokémon generation?
+What anime character has the best voice?
+What is one thing you would change about your favorite game?
+What is the most ridiculous thing you have ever done for fun?
+What horror creature do you think is the coolest?
+What food would you bring to a party?
+What is your favorite outdoor activity?
+What Pokémon would be the worst at keeping a secret?
+What anime protagonist do you relate to the most?
+What game would you bring to a deserted island?
+What is something you have recently become interested in?
+What is your favorite kind of pizza?
+What fictional weapon would you want to own?
+What Pokémon would be the best chef?
+What is your favorite anime movie?
+What game character would you want on your team?
+What is a fear you have that makes no logical sense?
+What is your favorite fast-food restaurant?
+What game do you think is criminally underrated?
+What Pokémon would make the best streamer?
+What anime character would be the funniest streamer?
+What is something you collect?
+What is your favorite kind of sandwich?
+What horror game made you jump the most?
+What game would you erase from your memory just to play again?
+What Pokémon would you choose if you could only have one?
+What anime character would you trust to house-sit?
+What is your favorite rainy-day activity?
+What food do you think should exist but does not?
+What game has the best lore?
+What is something you would love to create?
+What Pokémon would be the worst babysitter?
+What anime world would you actually enjoy living in?
+What is your favorite type of candy?
+What game character would you want as your best friend?
+What is the funniest horror movie you have seen?
+What is one thing you wish you could do instantly?
+What food do you miss from your childhood?
+What Pokémon would be the best security guard?
+What anime character would win in a cooking competition?
+What game has your favorite story?
+What is your favorite thing about your hometown?
+What is a hobby you could spend an entire day doing?
+What horror movie villain has the best design?
+What Pokémon would be the hardest to train?
+What anime character would you never trust?
+What game do you always come back to?
+What is your favorite soup?
+What fictional world has the best food?
+What is something you want to accomplish someday?
+What Pokémon would you want to see in a new game?
+What anime character has the best outfit?
+What game has the best exploration?
+What is your favorite thing to do with friends?
+What food combination sounds disgusting but works?
+What horror game would you recommend to someone new to horror?
+What Pokémon would make the best detective?
+What anime character would you want to go shopping with?
+What game has the best customization?
+What is your favorite kind of breakfast?
+What is one place you would love to visit?
+What Pokémon would be the most annoying alarm clock?
+What anime character would be the worst roommate?
+What game has the best villains?
+What is your favorite thing about autumn?
+What food do you think everyone should try?
+What horror story has stuck with you?
+What Pokémon would you choose for a picnic?
+What anime character would survive a horror movie?
+What game would you play for 24 hours straight?
+What is something you are looking forward to?
+What is your favorite kind of pasta?
+What fictional creature would you want as a pet?
+What Pokémon would be the best at hide-and-seek?
+What anime character has the funniest personality?
+What game has the most satisfying gameplay?
+What is something you wish you could experience again?
+What food would you eat if calories did not exist?
+What horror game has the creepiest atmosphere?
+What Pokémon would you want to encounter in the wild?
+What anime character would you want to train with?
+What game has the best opening?
+What is your favorite type of cheese?
+What is something you have always wanted to build?
+What fictional character would you want as your boss?
+What Pokémon would be the best dancer?
+What anime has the best comedy?
+What game character has the coolest design?
+What is your favorite late-night snack?
+What is one thing you would change about the world?
+What horror movie has the best atmosphere?
+What Pokémon would make the best detective?
+What anime character would make the best parent?
+What game has the best side quests?
+What is your favorite type of cookie?
+What hobby makes you lose track of time?
+What fictional character would you trust with a secret?
+What Pokémon would be the best party guest?
+What anime character would you want to travel with?
+What game has the funniest dialogue?
+What is your favorite thing about summer?
+What food would you happily eat for breakfast, lunch, and dinner?
+What horror monster has the coolest concept?
+What Pokémon would be the worst roommate?
+What anime character would you want as your sibling?
+What game has the best ending?
+What is your favorite type of cake?
+What is something you want to learn this year?
+What fictional character would you challenge to a competition?
+What Pokémon would you want to have as a coworker?
+What anime character would make the best streamer?
+What game has the best graphics?
+What is your favorite comfort show?
+What food would you bring on a road trip?
+What horror movie would you rewrite?
+What Pokémon would be the most chaotic?
+What anime character would be the most chaotic?
+What game would you recommend to someone who only has one hour to play?
+What is your favorite kind of fruit?
+What is something you are currently obsessed with?
+What fictional character would make the best roommate?
+What Pokémon would be the best gardener?
+What anime character would be the best chef?
+What game has the best atmosphere?
+What is your favorite thing to do at night?
 What food would you invent if you could?
-What's your favorite Pokémon region?
-What's something you would never do?
-What's your favorite horror game?
-What's your favorite video game genre?
-What's something that instantly annoys you?
-Would you rather have unlimited money or unlimited knowledge?
-What's your favorite anime protagonist?
-What's your favorite Pokémon evolution?
-What's your favorite fictional world?
-What's your favorite restaurant meal?
-What's the best meal you've ever eaten?
-What's your favorite horror villain?
-What's something you want to get better at?
-What's your favorite game Easter egg?
-Would you rather have wings or gills?
-What's your favorite anime side character?
-What's your favorite Pokémon regional form?
-What's your favorite movie?
-What's your favorite hobby you've ever had?
-What fictional character would you want to protect you?
-What's your favorite horror movie ending?
-What's your favorite video game companion?
-What's something you're afraid of?
-Would you rather be invisible or read minds?
-What's your favorite Pokémon legendary?
-What's your favorite anime romance?
-What's your favorite comfort movie?
-What is something you're proud of?
-What's your favorite game soundtrack?
-What's your favorite spooky activity?
-What's your favorite Pokémon move?
-Would you rather live forever or know when you'll die?
-What's your favorite fictional robot?
-What's your favorite food?
-What's your favorite anime character?
-What's the scariest thing you've seen?
-What's your favorite game?
-What's something you want to experience?
-Which Pokémon would you choose for your final team member?
-What's your favorite horror monster?
-What's your favorite dessert?
-Would you rather be a wizard or a witch?
-What's your favorite anime power?
-What's your favorite fictional couple?
-What's your favorite gaming memory?
-What's a hobby you'd teach someone else?
-What's your favorite Pokémon shiny?
-What's your favorite horror game?
-What's something you want to be remembered for?
-What's your favorite anime opening?
-Would you rather have a time machine or teleportation?
-What's your favorite fictional pet?
-What's your favorite restaurant?
-What's your favorite video game villain?
-What's your favorite horror movie?
-What's something you wish existed?
-Which Pokémon would you want in real life?
-What's your favorite anime villain?
-Would you explore an abandoned amusement park?
-What's your favorite food to cook?
-What's your favorite game world?
-What's your favorite Pokémon Gym Leader?
-What's your favorite hobby purchase?
-What's something you want to accomplish this month?
-What's your favorite fictional hero?
-What's your favorite anime meme?
-What's your favorite scary location?
-Would you rather have a pet dragon or pet dinosaur?
-What's your favorite candy?
-What's your favorite Pokémon region?
-What's your favorite video game weapon?
-What's something that makes you feel at home?
-What's your favorite anime character outfit?
-What's your favorite horror character?
-Would you rather be able to control fire or water?
-What's your favorite breakfast food?
-What's your favorite Pokémon partner?
-What's your favorite fictional school?
-What's the funniest game glitch you've encountered?
-What's your favorite anime ending?
-What's something you want to create?
-What's your favorite horror soundtrack?
-Would you rather be famous or completely anonymous?
-What's your favorite Pokémon type?
-What's your favorite fictional villain?
-What's your favorite video game ending?
-What's your favorite snack?
-What's something you want to learn?
-What's your favorite anime character relationship?
-Would you rather live in a castle or modern mansion?
-What's your favorite horror trope?
-What's your favorite Pokémon move?
-What's your favorite game franchise?
-What's something you're nostalgic about?
-What's your favorite anime movie?
-What's your favorite fictional vehicle?
-Would you rather fight a vampire or werewolf?
-What's your favorite food from another culture?
-What's your favorite Pokémon rival?
-What's your favorite horror villain design?
-What's your favorite gaming achievement?
-What's something you want more of in life?
-What's your favorite anime genre?
-Would you rather have unlimited food or unlimited drinks?
-What's your favorite fictional monster?
-What's your favorite game character?
-What's your favorite Pokémon card?
-What's something that makes you laugh every time?
-What's your favorite horror movie cliché?
-What's your favorite dessert?
-Would you rather explore space or the ocean?
-What's your favorite anime fight?
-What's your favorite Pokémon starter?
-What's your favorite video game soundtrack?
-What's something you're surprisingly good at?
-What's your favorite fictional city?
-What's your favorite horror setting?
-Would you rather have super speed or super strength?
-What's your favorite anime character voice?
-What's your favorite Pokémon ability?
-What's your favorite game NPC?
-What's something you wish you'd started sooner?
-What's your favorite horror book?
-What's your favorite fictional family?
-Would you rather know every language or play every instrument?
-What's your favorite food combination?
-What's your favorite anime character design?
-What's your favorite Pokémon game?
-What's something you would never try?
-What's your favorite horror monster?
-What's your favorite game boss?
-What's your favorite hobby?
-Would you rather have a private island or private spaceship?
-What's your favorite anime protagonist?
-What's your favorite Pokémon mythical?
-What's your favorite movie soundtrack?
-What's something that instantly makes you happy?
-What's your favorite horror franchise?
-What's your favorite video game protagonist?
-What's your favorite snack?
-Would you rather be able to shapeshift or teleport?
-What's your favorite anime ship?
-What's your favorite Pokémon evolution?
-What's your favorite fictional weapon?
-What's something you want to change about your life?
-What's your favorite horror movie?
-Would you rather live in a city or countryside?
-What's your favorite Pokémon type?
-What's your favorite fictional villain?
-What's your favorite game soundtrack?
-What's something you're currently obsessed with?
-Would you rather be a vampire or werewolf?
-What's your favorite anime character?
-What's your favorite Pokémon?
-What's your favorite food?
-What's your favorite hobby?
-What's your biggest dream?
-Would you rather live in a fictional world or create your own?
-What's your favorite video game villain?
-What's your favorite horror villain?
-What's your favorite anime villain?
-What's your favorite Pokémon type?
-What's your favorite dessert?
-What's something you want to learn?
-Would you rather have super speed or teleportation?
-What's your favorite fictional creature?
-What's your favorite game soundtrack?
-What's your favorite anime opening?
-What's your favorite Pokémon move?
-What's your favorite horror game?
-What's something you want to accomplish?
-What's your favorite restaurant?
-Would you rather have unlimited money or unlimited wishes?
-What's your favorite anime movie?
-What's your favorite Pokémon region?
-What's your favorite fictional weapon?
-What's your favorite game character?
-What's your favorite horror setting?
-What's something you want to change?
-Would you rather live in space or underwater?
-What's your favorite anime ship?
-What's your favorite Pokémon legendary?
-What's your favorite snack?
-What's your favorite video game boss?
-What's your favorite horror monster?
-What's something you want to create?
-Would you rather know every secret in the universe or every secret about yourself?
-What's your favorite fictional hero?
-What's your favorite anime genre?
-What's your favorite Pokémon starter?
-What's your favorite hobby?
-What's your favorite movie?
-What's something you're currently obsessed with?
-Would you rather be a vampire or werewolf?
-What's your favorite horror franchise?
-What's your favorite game mechanic?
-What's your favorite anime transformation?
-What's your favorite Pokémon shiny?
-What's something that makes you feel safe?
-What's your favorite fictional pet?
-Would you rather have a time machine or teleportation?
-What's your favorite food?
-What's your favorite game?
-What's your favorite anime?
-What's your favorite horror story?
-What's your favorite Pokémon?
-What's something you're proud of?
-Would you rather have wings or a tail?
-What's your favorite fictional villain?
-What's your favorite gaming memory?
-What's your favorite anime character design?
-What's your favorite Pokémon evolution?
-What's your favorite dessert?
-What's something you want to experience?
-What's your favorite horror villain?
-Would you explore a haunted house or haunted forest?
-What's your favorite video game character?
-What's your favorite anime soundtrack?
-What's your favorite Pokémon card?
-What's something you want to get better at?
-Would you rather be able to breathe underwater or survive in space?
-What's your favorite fictional world?
-What's your favorite horror movie?
-What's your favorite game boss?
-What's your favorite anime protagonist?
-What's your favorite Pokémon ability?
-What's your favorite food combination?
-What's something you wish you could do?
-Would you rather have a robot companion or magical companion?
-What's your favorite horror creature?
-What's your favorite video game genre?
-What's your favorite anime ending?
-What's your favorite Pokémon rival?
-What's your favorite hobby?
-What's something you want more of in your life?
-Would you rather be famous or anonymous?
-What's your favorite fictional character?
-What's your favorite horror game?
-What's your favorite game soundtrack?
-What's your favorite Pokémon region?
-What's your favorite anime fight?
-What's something you're looking forward to?
-Would you rather have unlimited food or unlimited money?
-What's your favorite dessert?
-What's your favorite fictional vehicle?
-What's your favorite horror trope?
-What's your favorite Pokémon mythical?
-What's your favorite anime villain?
-What's your favorite game character?
-What's something you want to accomplish this year?
-Would you rather be able to pause or rewind time?
-What's your favorite food?
-What's your favorite Pokémon?
-What's your favorite horror movie?
-What's your favorite anime?
-What's your favorite game?
-What's your favorite hobby?
-What's something you want to learn?
-Would you rather have a dragon or phoenix?
-What's your favorite fictional villain?
-What's your favorite Pokémon move?
-What's your favorite video game boss?
-What's your favorite anime character?
-What's your favorite horror monster?
-What's something you want to create?
-Would you rather know your future or change your past?
-What's your favorite dessert?
-What's your favorite fictional creature?
-What's your favorite Pokémon starter?
-What's your favorite game mechanic?
-What's your favorite horror setting?
-What's your favorite anime opening?
-What's something you're proud of?
-Would you rather live in a castle or spaceship?
-What's your favorite Pokémon shiny?
-What's your favorite fictional hero?
-What's your favorite food?
-What's your favorite horror villain?
-What's your favorite video game soundtrack?
-What's your favorite anime ship?
-What's something you're currently working toward?
-Would you rather have super strength or mind reading?
-What's your favorite Pokémon legendary?
-What's your favorite hobby?
-What's your favorite game character?
-What's your favorite horror game?
-What's your favorite anime movie?
-What's something you wish existed?
-Would you rather have unlimited knowledge or unlimited creativity?
-What's your favorite fictional weapon?
-What's your favorite Pokémon region?
-What's your favorite dessert?
-What's your favorite horror franchise?
-What's your favorite anime character design?
-What's something that makes you happy?
-Would you rather explore space or the ocean?
-What's your favorite video game?
-What's your favorite Pokémon?
-What's your favorite horror character?
-What's your favorite anime villain?
-What's something you want to accomplish before the year ends?
-Would you rather be a vampire or witch?
-What's your favorite fictional pet?
-What's your favorite food?
-What's your favorite gaming memory?
-What's your favorite Pokémon ability?
-What's your favorite anime fight?
-What's your favorite horror movie ending?
-What's something you want to improve?
-Would you rather have a time machine or teleportation?
-What's your favorite game franchise?
-What's your favorite fictional location?
-What's your favorite Pokémon card?
-What's your favorite anime quote?
-What's your favorite dessert?
-What's your favorite horror monster?
-What's something you're grateful for?
-Would you rather live forever or restart your life?
-What's your favorite video game villain?
-What's your favorite Pokémon evolution?
-What's your favorite anime protagonist?
-What's your favorite hobby?
-What's your favorite horror game?
-What's something you want to be remembered for?
-Would you rather be invisible or invincible?
-What's your favorite fictional world?
-What's your favorite food?
-What's your favorite Pokémon?
-What's your favorite game?
-What's your favorite anime?
-What's your favorite horror movie?
-What's your biggest dream?
-Would you rather know every language or master every instrument?
-What's your favorite fictional character?
-What's your favorite Pokémon shiny?
-What's your favorite video game soundtrack?
-What's your favorite anime opening?
-What's your favorite horror villain?
-What's something you're currently obsessed with?
-Would you rather control time or space?
-What's your favorite dessert?
-What's your favorite game character?
-What's your favorite Pokémon legendary?
-What's your favorite anime character?
-What's your favorite horror creature?
-What's something you want to accomplish someday?
-Would you rather have unlimited money or unlimited wishes?
-What's your favorite fictional world?
-What's one question you wish someone would ask you?
-If you could ask yourself one question and had to answer honestly, what would you ask?
+What horror game deserves more attention?
+What Pokémon would you want to see as a regional variant?
+What anime character would you want to see in a video game?
+What game has the best combat system?
+What is your favorite kind of drink?
+What is one goal you have for the next five years?
+What fictional world has the best architecture?
+What Pokémon would make the best therapist?
+What anime character would make the worst therapist?
+What game character would you want as a mentor?
+What is your favorite thing about winter?
+What food do you wish was easier to make?
+What horror villain would you absolutely avoid?
+What Pokémon would be the best at karaoke?
+What anime character would be the best at karaoke?
+What game has the most satisfying progression?
+What is your favorite kind of chip?
+What is something you want to do with your friends?
+What fictional character would you want to have a sleepover with?
+What Pokémon would make the best bodyguard?
+What anime character would make the best bodyguard?
+What game has the best secrets?
+What is your favorite kind of ice cream?
+What is something you would do if you had an extra day every week?
+What horror game would you play with the lights on?
+What Pokémon would be the best detective?
+What anime character would be the worst detective?
+What game has the best puzzles?
+What is your favorite kind of pie?
+What is something you want to improve about yourself?
+What fictional character would you want to have a conversation with?
+What Pokémon would be the best teacher?
+What anime character would be the best teacher?
+What game has the best character development?
+What is your favorite kind of noodle?
+What horror movie would you recommend to a horror fan?
+What Pokémon would be the best at running a business?
+What anime character would be the best at running a business?
+What game has the best worldbuilding?
+What is your favorite kind of breakfast cereal?
+What is one thing you could never live without?
+What fictional character would you want to get stuck in an elevator with?
+What Pokémon would be the funniest to see driving a car?
+What anime character would be the funniest to see driving a car?
+What game has the best NPCs?
+What is your favorite kind of barbecue food?
+What is something you wish you could master?
+What horror villain would you invite to dinner?
+What Pokémon would make the best barista?
+What anime character would make the best barista?
+What game has the best inventory system?
+What is your favorite kind of donut?
+What fictional character would you want to spend a weekend with?
+What Pokémon would be the best at playing video games?
+What anime character would be the best at playing video games?
+What game has the best boss music?
+What is something that instantly annoys you?
+What food do you think is impossible to mess up?
+What horror movie has the most interesting story?
+What Pokémon would be the best detective partner?
+What anime character would be the best detective partner?
+What game has the best collectibles?
+What is your favorite kind of burger?
+What is something you would love to teach someone?
+What fictional character would you want as your neighbor?
+What Pokémon would be the best neighbor?
+What anime character would be the worst neighbor?
+What game has the best dialogue choices?
+What is your favorite kind of breakfast sandwich?
+What horror creature would you want to study?
+What Pokémon would be the best librarian?
+What anime character would be the best librarian?
+What game has the best character designs?
+What is something you find oddly satisfying?
+What food could you eat with almost anything?
+What fictional character would you want to go camping with?
+What Pokémon would be the best camping buddy?
+What anime character would be the worst camping buddy?
+What game has the best crafting system?
+What is your favorite kind of taco?
+What is something you would do if you were completely fearless?
+What horror movie monster could you probably outrun?
+What Pokémon would be the best at making memes?
+What anime character would be the best at making memes?
+What game has the funniest characters?
+What is your favorite kind of sauce?
+What fictional character would you want to be your partner in a heist?
+What Pokémon would be the best getaway driver?
+What anime character would be the best getaway driver?
+What game has the best replay value?
+What is something you would like to get better at this month?
+What horror movie would you survive?
+What Pokémon would be the worst at following directions?
+What anime character would be the worst at following directions?
+What game has the best romance options?
+What is your favorite kind of bread?
+What fictional character would you trust to plan a vacation?
+What Pokémon would plan the worst vacation?
+What anime character would plan the worst vacation?
+What game has the best character relationships?
+What is something that makes you nostalgic?
+What food reminds you of a specific person?
+What horror story would you want to investigate?
+What Pokémon would you want to see as a ghost type?
+What anime character would make the best ghost hunter?
+What game has the best hidden areas?
+What is your favorite kind of seasoning?
+What fictional character would you want to spend a rainy day with?
+What Pokémon would make the best weather reporter?
+What anime character would make the best weather reporter?
+What game has the best environmental storytelling?
+What is something you would do with unlimited free time?
+What horror game would you want turned into a movie?
+What Pokémon would make the worst weather reporter?
+What anime character would make the worst weather reporter?
+What game has the best photo mode?
+What is your favorite kind of restaurant?
+What fictional character would you invite to game night?
+What Pokémon would dominate game night?
+What anime character would cheat at game night?
+What game has the best minigames?
+What is one food you could never get bored of?
+What is something you would love to experience in another country?
+What horror movie has the best soundtrack?
+What Pokémon would make the best musician?
+What anime character would make the best musician?
+What game has the best music?
+What is your favorite kind of tea or coffee?
+What fictional character would make the best tour guide?
+What Pokémon would make the worst tour guide?
+What anime character would make the worst tour guide?
+What game has the best map?
+What is something you would love to do at least once?
+What food would you bring to a movie night?
+What horror character would you want on your side?
+What Pokémon would be the best movie critic?
+What anime character would be the best movie critic?
+What game has the best cinematics?
+What is your favorite kind of chocolate?
+What fictional character would you want to go to an amusement park with?
+What Pokémon would love roller coasters?
+What anime character would hate roller coasters?
+What game has the best fast-travel system?
+What is something you could rant about forever?
+What horror movie has the best practical effects?
+What Pokémon would be the best actor?
+What anime character would be the best actor?
+What game has the best voice acting?
+What is your favorite kind of holiday food?
+What fictional character would you want to celebrate a holiday with?
+What Pokémon would make the best holiday mascot?
+What anime character would make the best holiday mascot?
+What game has the best seasonal events?
+What is something you are grateful for?
+What food makes you feel better when you are sick?
+What horror villain has the best catchphrase?
+What Pokémon would have the funniest catchphrase?
+What anime character would have the funniest catchphrase?
+What game has the best quotes?
+What is your favorite kind of street food?
+What fictional character would you want as your personal chef?
+What Pokémon would be the worst personal chef?
+What anime character would be the best personal chef?
+What game has the best food mechanics?
+What is something you would like to revisit someday?
+What horror game would you let someone else play while you watch?
+What Pokémon would make the best security camera?
+What anime character would make the worst security guard?
+What game has the best stealth mechanics?
+What is your favorite kind of fruit dessert?
+What fictional character would make the best detective?
+What Pokémon would be terrible at detective work?
+What anime character would be terrible at detective work?
+What game has the best mystery?
+What is something you wish existed in real life?
+What food would you make for your favorite fictional character?
+What horror monster would make the best pet if it were friendly?
+What Pokémon would make the best pet sitter?
+What anime character would make the best pet sitter?
+What game has the best animal companions?
+What is your favorite kind of breakfast pastry?
+What fictional character would you want to share a hobby with?
+What Pokémon would be the most competitive?
+What anime character would be the most competitive?
+What game has the best difficulty options?
+What is something you would change about your favorite anime?
+What food would you choose for your final meal?
+What horror movie would you want a sequel to?
+What Pokémon deserves a new evolution?
+What anime character deserves a redemption arc?
+What game deserves a remake?
+What is your favorite kind of festival?
+What fictional character would you want to see in a crossover?
+What Pokémon crossover would you love to see?
+What anime crossover would you love to see?
+What game crossover would be completely chaotic?
+What is something you think is underrated?
+What food do you think is underrated?
+What anime do you think is underrated?
+What game do you think is underrated?
+What Pokémon do you think is underrated?
+What is something you think is overrated?
+What food do you think is overrated?
+What anime do you think is overrated?
+What game do you think is overrated?
+What Pokémon do you think is overrated?
+What is your favorite childhood memory involving games?
+What is your favorite childhood memory involving food?
+What is your favorite childhood memory involving cartoons?
+What is your favorite childhood memory involving Halloween?
+What is the funniest thing that happened to you recently?
+What is the strangest thing you believed as a kid?
+What is the weirdest conspiracy theory you have heard?
+What historical period would you visit if you could travel through time?
+What historical person would you want to have dinner with?
+What historical event would you want to witness?
+What ancient civilization interests you the most?
+What historical invention do you think changed the world the most?
+What historical mystery fascinates you?
+What historical place would you love to visit?
+What time period would you absolutely hate to live in?
+What historical figure would make a terrible roommate?
+What historical figure would make an amazing roommate?
+What historical invention would you bring to the future?
+What old tradition do you find interesting?
+What historical mystery do you wish had an answer?
+What famous historical event would you change nothing about?
+What historical event would you want to see from a safe distance?
+What ancient food would you actually try?
+What historical weapon would you want to see in a museum?
+What historical building would you love to explore?
+What historical figure would you want as a teacher?
+What ancient civilization would you want to visit for a day?
+What historical period has the coolest fashion?
+What historical invention would be hardest to live without?
+What historical mystery would make a great horror movie?
+What historical story sounds completely fictional but is real?
+What historical place gives you the creeps?
+What historical figure would you want to interview?
+What historical discovery would you love to make?
+What historical artifact would you want to own?
+What ancient myth do you find the most interesting?
+What mythology creature would you want as a pet?
+What mythology world would you want to visit?
+What mythological god would be the worst roommate?
+What mythological creature would win in a fight?
+What mythology story deserves an anime?
+What folklore creature scares you the most?
+What urban legend do you find fascinating?
+What urban legend would you never investigate?
+What cryptid would you want to prove exists?
+What cryptid would you absolutely avoid?
+What cryptid would make the best friend?
+What cryptid would make the worst roommate?
+What supernatural ability would you want?
+What supernatural creature would you want to meet?
+What paranormal experience would you be curious to have?
+What haunted location would you visit if you were guaranteed to be safe?
+What ghost story do you actually believe might be true?
+What is the creepiest sound you have ever heard?
+What is the creepiest place you have ever been?
+What is the strangest coincidence you have experienced?
+What is the weirdest thing you have found somewhere?
+What is the funniest coincidence you have experienced?
+What is something random you know a lot about?
+What is a useless fact you love?
+What is your favorite weird fact?
+What random skill do you wish you had?
+What is the weirdest hobby you have heard of?
+What hobby would you try if nobody could judge you?
+What hobby looks fun but probably is not?
+What hobby would you recommend to everyone?
+What hobby would you never try?
+What creative project would you love to start?
+What is something you want to write?
+What is something you want to draw?
+What is something you want to build?
+What is something you want to photograph?
+What is something you want to learn to cook?
+What is something you want to learn to play?
+What instrument would you love to learn?
+What language would you love to learn?
+What skill would make your everyday life easier?
+What skill would be fun but completely useless?
+What is a personal goal you are proud of?
+What is a goal you keep putting off?
+What is a dream you hope becomes reality?
+What is something you want to accomplish before you get older?
+What is something you want to do this month?
+What is something you want to do this week?
+What is something you are currently working toward?
+What is something you recently accomplished?
+What accomplishment are you most proud of?
+What challenge would you like to overcome?
+What is something you wish you had started sooner?
+What advice would you give your younger self?
+What is something you have learned the hard way?
+What is a lesson you will never forget?
+What is something you wish someone had taught you?
+What motivates you when you feel stuck?
+What helps you relax after a stressful day?
+What is your favorite way to spend a free afternoon?
+What is your ideal lazy day?
+What does your perfect weekend look like?
+What would your dream day look like?
+What is one thing you want to do tomorrow?
+What is one thing you are looking forward to?
+What is something that always cheers you up?
+What song instantly improves your mood?
+What movie instantly improves your mood?
+What game instantly improves your mood?
+What food instantly improves your mood?
+What person always makes you laugh?
+What fictional character always makes you smile?
+What is your favorite meme format?
+What is the funniest meme you remember seeing?
+What is your favorite internet trend?
+What internet trend do you hope never returns?
+What is the funniest thing you have seen on Twitch?
+What is your favorite thing about livestreaming?
+What would you love to see added to your favorite game?
+What game would you love to see streamed?
+What is your favorite type of Twitch content?
+What makes a stream fun to watch?
+What makes a streamer memorable?
+What is your favorite kind of chat interaction?
+What is the funniest chat message you have ever seen?
+What is the strangest Twitch emote you know?
+What emote do you use the most?
+What game would you love to play with the chat?
+What game would be absolute chaos with a group of friends?
+What game would you never stream?
+What game would you love to stream for an entire weekend?
+What game deserves more attention from streamers?
+What is your favorite gaming memory with friends?
+What is the funniest gaming fail you have had?
+What game made you yell at your screen?
+What game made you cry?
+What game made you laugh until you hurt?
+What game made you stay up way too late?
+What game do you wish you could forget the spoilers for?
+What game ending surprised you the most?
+What game beginning hooked you immediately?
+What game character do you wish was real?
+What game character would you absolutely avoid?
+What game villain do you think was justified?
+What game villain do you hate the most?
+What game protagonist do you relate to?
+What game side character deserves more attention?
+What game NPC would you want as a friend?
+What game NPC would drive you insane?
+What game world would you happily move into?
+What game world would you never visit?
+What game location would you want to explore?
+What game item would you want in real life?
+What game ability would be useful in real life?
+What game mechanic would be hilarious in real life?
+What game mechanic would be terrifying in real life?
+What game would make the best movie?
+What game would make the best TV series?
+What anime would make the best video game?
+What movie would make the best video game?
+What book would make the best game?
+What game would make the best board game?
+What anime would make the best board game?
+What Pokémon game is your favorite?
+What Pokémon game would you recommend to a beginner?
+What Pokémon game has your favorite region?
+What Pokémon game has your favorite soundtrack?
+What Pokémon game has your favorite starter choices?
+What Pokémon game has your favorite characters?
+What Pokémon would you shiny hunt first?
+What shiny Pokémon is your favorite?
+What shiny Pokémon looks worse than the original?
+What Pokémon would you give a funny nickname to?
+What Pokémon has the funniest name?
+What Pokémon has the coolest name?
+What Pokémon has the cutest cry?
+What Pokémon has the funniest cry?
+What Pokémon would you want as a starter in real life?
+What Pokémon would be the best travel companion?
+What Pokémon would be the worst travel companion?
+What Pokémon would make the best chef?
+What Pokémon would make the worst chef?
+What Pokémon would be the best teacher?
+What Pokémon would be the worst teacher?
+What Pokémon would be the best boss?
+What Pokémon would be the worst boss?
+What Pokémon would be the best friend?
+What Pokémon would be the worst friend?
+What Pokémon would be the best comedian?
+What Pokémon would be the worst comedian?
+What Pokémon would be the best musician?
+What Pokémon would be the worst musician?
+What Pokémon would be the best actor?
+What Pokémon would be the worst actor?
+What Pokémon would win a talent show?
+What Pokémon would accidentally destroy a talent show?
+What anime character would you want to cosplay?
+What anime character has your favorite hairstyle?
+What anime character has the best powers?
+What anime character has the weirdest powers?
+What anime character has the best character development?
+What anime character has the saddest story?
+What anime character has the funniest story?
+What anime character deserves more screen time?
+What anime character deserves their own movie?
+What anime character would you trust with your pet?
+What anime character would you never let babysit?
+What anime character would be your ideal roommate?
+What anime character would be your worst roommate?
+What anime character would be your ideal travel buddy?
+What anime character would get lost immediately?
+What anime character would win a cooking competition?
+What anime character would burn water?
+What anime character would dominate a game show?
+What anime character would lose a game show immediately?
+What anime character would survive a zombie apocalypse?
+What anime character would panic first in a zombie apocalypse?
+What anime character would make the best detective?
+What anime character would make the worst detective?
+What anime character would make the best horror protagonist?
+What anime character would make the worst horror protagonist?
+What anime character would make the best villain?
+What anime villain would you want to redeem?
+What anime villain do you think had a point?
+What anime fight deserves a rematch?
+What anime ending would you change?
+What anime deserves another season?
+What anime deserves a remake?
+What anime deserves a video game?
+What anime deserves a live-action adaptation?
+What anime would you introduce to your best friend?
+What anime would you watch with someone who hates anime?
+What horror game would you recommend to someone who scares easily?
+What horror movie would you recommend to someone new to horror?
+What horror villain would you want to interview?
+What horror villain would you never want to meet?
+What horror monster has the best design?
+What horror monster has the worst design?
+What horror game has the best jumpscares?
+What horror game has the best story?
+What horror game has the best puzzles?
+What horror game has the best soundtrack?
+What horror game has the best monsters?
+What horror game has the best ending?
+What horror game has the best protagonist?
+What horror game would you survive?
+What horror game would you immediately lose?
+What horror movie would you survive?
+What horror movie would you immediately die in?
+What horror trope do you love?
+What horror trope do you hate?
+What horror movie has the funniest moment?
+What horror movie has the best practical effects?
+What horror movie has the best special effects?
+What horror movie has the best soundtrack?
+What horror movie has the best villain?
+What horror movie has the best protagonist?
+What horror movie has the most disturbing scene?
+What horror movie has the biggest plot twist?
+What horror movie deserves a remake?
+What horror movie deserves a sequel?
+What horror movie should never get a remake?
+What horror story would make a great game?
+What horror story would make a great movie?
+What horror creature would you want as a mascot?
+What horror creature would make a terrible mascot?
+What is the funniest thing that scares you?
+What is the most irrational fear you have?
+What sound scares you instantly?
+What place gives you an uneasy feeling?
+What is the creepiest game you have played?
+What is the creepiest anime you have watched?
+What is the creepiest book you have read?
+What is the creepiest story you have heard?
+What is the creepiest image you remember seeing?
+What is the strangest unexplained thing you have experienced?
+What is the weirdest coincidence you have experienced?
+What is the most ridiculous thing you have ever done?
+What is the dumbest way you have injured yourself?
+What is the funniest mistake you have ever made?
+What is the most embarrassing gaming moment you have had?
+What is the funniest autocorrect mistake you have seen?
+What is the weirdest message you have ever received?
+What is the funniest nickname you have ever had?
+What is the strangest nickname you have heard?
+What is the weirdest food you have tried?
+What is the strangest drink you have tried?
+What is the strangest place you have eaten?
+What is the weirdest thing you have seen at a restaurant?
+What is the funniest thing that happened on a trip?
+What is the weirdest souvenir you own?
+What is the strangest thing you have collected?
+What is something you own that has a ridiculous story behind it?
+What is something you accidentally became good at?
+What is something you accidentally became obsessed with?
+What is something you started as a joke and ended up enjoying?
+What is something you thought you would hate but ended up loving?
+What is something everyone loves that you dislike?
+What is something everyone dislikes that you love?
+What opinion will you defend forever?
+What harmless hill would you die on?
+What is your most controversial food opinion?
+What is your most controversial gaming opinion?
+What is your most controversial anime opinion?
+What is your most controversial Pokémon opinion?
+What is a completely useless opinion you have very strongly?
+What is a food combination you will defend forever?
+What is a game you will defend forever?
+What is an anime you will defend forever?
+What Pokémon will you defend forever?
+What is one thing you think should be illegal but obviously is not?
+What is one tiny inconvenience that drives you crazy?
+What is something that instantly makes you happy?
+What is something that instantly makes you annoyed?
+What is something that instantly makes you nostalgic?
+What smell instantly reminds you of childhood?
+What sound instantly reminds you of childhood?
+What food instantly reminds you of childhood?
+What game instantly reminds you of childhood?
+What show instantly reminds you of childhood?
+What song instantly reminds you of childhood?
+What is your favorite childhood snack?
+What was your favorite childhood toy?
+What was your favorite childhood game?
+What was your favorite childhood cartoon?
+What was your favorite childhood movie?
+What was your favorite childhood Halloween costume?
+What was your favorite childhood holiday?
+What was your favorite childhood tradition?
+What is a childhood belief you cannot believe you had?
+What is something from childhood you wish still existed?
+What is something from childhood you are glad disappeared?
+What is something you would bring back from the past?
+What is something from the past you would leave behind?
+What modern invention could you never give up?
+What modern invention do you wish existed?
+What future technology are you excited about?
+What future technology scares you?
+What would you want to see on a space station?
+Would you ever travel to space if given the chance?
+What planet would you visit if you could?
+What alien creature would you want to meet?
+What would be the first thing you would ask an alien?
+What fictional technology would you want in real life?
+What fictional vehicle would you want to own?
+What fictional home would you want to live in?
+What fictional job would you want?
+What fictional school would you attend?
+What fictional restaurant would you visit?
+What fictional store would you shop at?
+What fictional amusement park would you visit?
+What fictional holiday would you celebrate?
+What fictional food would you want to try?
+What fictional drink would you want to try?
+What fictional pet would you want?
+What fictional weapon would you want?
+What fictional superpower would you choose?
+What fictional ability would be the most useful?
+What fictional ability would be completely useless?
+What superpower sounds amazing until you think about it?
+What superpower would make everyday life annoying?
+What superpower would make you rich?
+What superpower would make you a terrible roommate?
+What superpower would you use for harmless chaos?
+What superpower would you use to help people?
+What would you do if you could teleport?
+What would you do if you could fly?
+What would you do if you could stop time?
+What would you do if you could read minds?
+What would you do if you could become invisible?
+What would you do if you could talk to animals?
+What would you do if you could breathe underwater?
+What would you do if you could shapeshift?
+What would you do if you could control the weather?
+What would you do if you could travel through time?
+What would you do if you could visit any fictional world?
+What would you do if you woke up with a million dollars?
+What would you do if you had unlimited vacation time?
+What would you do if you had an extra hour every day?
+What would you do if you never needed sleep?
+What would you do if you could master one skill instantly?
+What would you do if you could meet your favorite fictional character?
+What would you do if you could replay one day of your life?
+What would you do if you could erase one bad memory?
+What would you do if you could relive one amazing memory?
+What would you do if you could ask your future self one question?
+What would you ask your past self?
+What advice would you give your future self?
+What would your perfect fictional team look like?
+What would your dream gaming setup look like?
+What would your dream bedroom look like?
+What would your dream house look like?
+What would your dream vacation look like?
+What would your dream birthday look like?
+What would your dream Halloween look like?
+What would your dream Christmas look like?
+What would your dream party look like?
+What would your dream convention look like?
+What would your dream stream look like?
+What would your dream collaboration be?
+What creator would you love to collaborate with?
+What game would you love to play with a creator?
+What challenge would you love to see on stream?
+What silly challenge would you attempt for charity?
+What ridiculous stream goal would you set?
+What would your ideal community event be?
+What would you put in a streamer starter pack?
+What would be the funniest thing to put on a stream bingo card?
+What would be the funniest channel point reward?
+What would be the worst channel point reward?
+What would be the funniest stream punishment?
+What game would be perfect for a chaotic stream?
+What game would be perfect for a cozy stream?
+What game would be perfect for a horror stream?
+What game would be perfect for a community night?
+What game would be perfect for a nostalgia stream?
+What game would be perfect for a challenge stream?
+What game would be perfect for a charity stream?
+What game would be perfect for a Halloween stream?
+What game would be perfect for a Christmas stream?
+What game would be perfect for a Pokémon stream?
+What game would be perfect for an anime fan?
+What game would be perfect for a lazy Sunday?
+What is your ultimate comfort game?
+What is your ultimate comfort anime?
+What is your ultimate comfort movie?
+What is your ultimate comfort food?
+What is your ultimate comfort song?
+What is your ultimate comfort character?
+What is your ultimate comfort Pokémon?
+What is your ultimate comfort hobby?
+What is your ultimate comfort activity?
+What is the first thing you do when you wake up?
+What is the last thing you do before bed?
+What is your favorite time of day?
+What is your favorite day of the week?
+What is your favorite month?
+What is your favorite holiday tradition?
+What is your favorite weekend activity?
+What is your favorite way to relax?
+What is your favorite way to celebrate?
+What is your favorite way to spend time with friends?
+What is your favorite way to spend time alone?
+What is your favorite way to procrastinate?
+What is your favorite way to reward yourself?
+What is your favorite way to stay motivated?
+What is your favorite way to make someone laugh?
+What is your favorite way to show someone you care?
+What is something kind someone did for you recently?
+What is something kind you have done for someone recently?
+What is something you appreciate about your friends?
+What is something you appreciate about your community?
+What is something you are thankful for today?
+What is something small that made you smile today?
+What is something good that happened this week?
+What is something you are excited about this month?
+What is something you hope happens this year?
+What is something you are proud of yourself for?
+What is something you want to celebrate?
+What is something you want to improve?
+What is something you want to stop doing?
+What is something you want to start doing?
+What is something you want to make more time for?
+What is something you want to spend less time worrying about?
+What is something you want to remember forever?
+What is one thing you hope never changes?
+What is one thing you hope changes soon?
+What is one thing you would tell someone having a bad day?
+What is one piece of advice you would give someone starting a new hobby?
+What is one piece of advice you would give a new gamer?
+What is one piece of advice you would give a new streamer?
+What is one piece of advice you wish you had received earlier?
+What is something you have learned from gaming?
+What is something you have learned from anime?
+What is something you have learned from your hobbies?
+What is something you have learned from your mistakes?
+What is something you have learned from your friends?
+What is something you have learned recently?
+What is something you want to learn next?
+What is something you want to teach others?
+What is something you know a ridiculous amount about?
+What is a random subject you could give a presentation about?
+What topic could you talk about for hours without preparation?
+What question do you wish people asked you more often?
+What is a question you love being asked?
+What is a question you hate being asked?
+What is something you wish more people knew about you?
+What is something people often misunderstand about you?
+What is something that always gets you talking?
+What topic will instantly grab your attention?
+What topic could you happily debate for hours?
+What is your favorite random conversation topic?
+What is the best conversation you have ever had?
+What is the funniest conversation you have ever had?
+What is the strangest conversation you have ever had?
+What is the most unexpected friendship you have made?
+What is the best advice a friend has given you?
+What is the funniest thing a friend has convinced you to do?
+What is the weirdest thing you have done because of a dare?
+What is the funniest dare you have completed?
+What harmless challenge would you dare the chat to do?
+What silly challenge would you do right now?
+What would you choose for a completely ridiculous superpower?
+What would your ridiculous superhero name be?
+What would your superhero costume look like?
+What would your villain name be?
+What would your villain theme song be?
+What would your evil lair look like?
+What would your fictional pet be named?
+What would your Pokémon team be named?
+What would your anime protagonist name be?
+What would your fantasy character class be?
+What would your Dungeons and Dragons character be?
+What fantasy race would you choose?
+What fantasy world would you live in?
+What fantasy creature would you ride?
+What fantasy weapon would you carry?
+What fantasy spell would you learn?
+What fantasy job would you have?
+What fantasy food would you want to try?
+What fantasy tavern would you visit?
+What fantasy character would you invite to your party?
+What fantasy monster would you want to defeat?
+What fantasy monster would you rather be friends with?
+What fantasy item would you want in real life?
+What role would you play in an adventuring party?
+What would your adventuring party be called?
+What would your party's mascot be?
+What would your fantasy home look like?
+What would your fantasy pet be?
+What would your fantasy vacation look like?
+What would your ideal magical ability be?
+What magical creature would make the best roommate?
+What magical creature would make the worst roommate?
+What magical spell would be useful for cleaning?
+What magical spell would be useful for cooking?
+What magical spell would be useful for gaming?
+What magical spell would be completely ridiculous?
+What fantasy villain would you want to defeat?
+What fantasy hero would you want as a friend?
+What fantasy world would you never survive in?
+What fantasy world would you thrive in?
+What fantasy game would you want turned into a real place?
+What mythical creature would you want to see in real life?
+What mythical creature would you absolutely run away from?
+What mythical creature would make the best pet?
+What mythical creature would make the worst pet?
+What mythological character would you want as a friend?
+What mythological character would you never trust?
+What mythological place would you visit?
+What mythology has your favorite stories?
+What mythology creature has your favorite design?
+What mythology story should become a video game?
+What mythology story should become an anime?
+What folklore creature has the creepiest design?
+What folklore story would make a great horror game?
+What urban legend would make a great movie?
+What urban legend would you investigate with friends?
+What cryptid would you want to photograph?
+What cryptid would you want to interview?
+What cryptid would make the best mascot?
+What cryptid would make the worst mascot?
+What unexplained mystery fascinates you most?
+What mystery would you love to solve?
+What mystery would you rather leave unsolved?
+What strange historical event fascinates you?
+What strange historical fact do you love?
+What historical mystery would make the best game?
+What historical mystery would make the best anime?
+What historical mystery would make the best horror movie?
+What historical place would you explore overnight?
+What historical artifact would you want to discover?
+What historical invention would you invent if you could?
+What historical invention would you improve?
+What historical figure would you want to interview for an hour?
+What historical figure would you want to see play a video game?
+What historical figure would be hilarious on Twitch?
+What historical figure would make a terrible streamer?
+What historical figure would make a great streamer?
+What historical period would make the best video game setting?
+What historical period would make the best horror setting?
+What historical period would make the best anime setting?
+What historical event would make the best movie?
+What historical event would make the best game?
+What historical event would you want to experience safely?
+What historical place would you most like to photograph?
+What historical building would you most like to explore?
+What historical tradition would you bring back?
+What historical tradition would you absolutely not bring back?
+What old food would you try?
+What ancient drink would you try?
+What ancient festival would you attend?
+What ancient game would you try playing?
+What ancient invention fascinates you?
+What ancient mystery would you like solved?
+What ancient civilization would you want to study?
+What ancient city would you want to visit?
+What ancient myth would you like to see adapted into a game?
+What ancient legend would make a great horror movie?
+What is the oldest piece of media you still love?
+What is an old game you think still holds up?
+What is an old anime you think everyone should watch?
+What old movie deserves more attention?
+What old food deserves to come back?
+What old fashion trend should return?
+What old technology do you miss?
+What discontinued product do you miss?
+What discontinued game do you wish you could play?
+What canceled show do you wish had continued?
+What canceled game do you wish had been finished?
+What unfinished story do you wish had an ending?
+What fictional character deserved a better ending?
+What anime deserved a better ending?
+What game deserved a better ending?
+What movie deserved a better ending?
+What story ending do you think was perfect?
+What plot twist genuinely surprised you?
+What plot twist did you see coming?
+What plot twist made you angry?
+What fictional death hit you the hardest?
+What fictional death made you laugh unexpectedly?
+What fictional character deserved to live?
+What fictional character deserved redemption?
+What fictional villain deserved better?
+What fictional hero deserved better?
+What fictional friendship is your favorite?
+What fictional rivalry is your favorite?
+What fictional romance is your favorite?
+What fictional family is your favorite?
+What fictional found family is your favorite?
+What fictional duo has the best chemistry?
+What fictional trio has the best chemistry?
+What fictional group would you want to join?
+What fictional character would understand you best?
+What fictional character would misunderstand you completely?
+What fictional character would become your best friend?
+What fictional character would become your enemy?
+What fictional character would accidentally ruin your life?
+What fictional character would save your life?
+What fictional character would make you laugh the most?
+What fictional character would make you cry the most?
+What fictional character would you defend in court?
+What fictional character would you absolutely put on trial?
+What fictional character would you trust with your secrets?
+What fictional character would you never tell a secret to?
+What fictional character would you want to cook for you?
+What fictional character would you want to cook for?
+What fictional character would you want to play games with?
+What fictional character would you want to watch movies with?
+What fictional character would you want to go shopping with?
+What fictional character would you want to go camping with?
+What fictional character would you want to go on a road trip with?
+What fictional character would you want to explore a haunted house with?
+What fictional character would you want beside you during an apocalypse?
+What fictional character would you want leading your team?
